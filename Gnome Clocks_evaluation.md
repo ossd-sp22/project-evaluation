@@ -77,7 +77,7 @@ Vala
 **URL for code of conduct / community norms / community guildelines:**
 
 **URL for instructions for users to download and install the package:**
-
+[Install Intructions](https://wiki.gnome.org/Projects/Vala/ValaPlatforms)
 **Are these instructions clear? Do you think they would be easy to follow?**
 
 **Number of contributors:**
