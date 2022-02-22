@@ -70,8 +70,9 @@ Yes. The license is OSI approved.
 Vala
 **URL for contributing instructions:**
 [Contributing.md Link](https://gitlab.gnome.org/GNOME/gnome-clocks/-/blob/master/CONTRIBUTING.md)
-# **Are the contributing instructions clear?**
 
+# **Are the contributing instructions clear?**
+Yes. The contributing instructions seem very beginner friendly. There are interactive videos and references for developers who are unfamiliar with the language. As someone who never worked with these technologies, I feel encouraged to contribute.
 **Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:**
 
 **URL for code of conduct / community norms / community guildelines:**
@@ -82,6 +83,7 @@ Vala
 **Are these instructions clear? Do you think they would be easy to follow?**
 Yes, the instructions are simple and clear. There is even different instructions for different operating systems. The intructions include the necessary packages that need to be installed, as well as a step by step procedure to compile and run the program on a local machine.
 **Number of contributors:**
+275
 
 **Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit**:
@@ -91,6 +93,7 @@ each of them list the link to their latest commit**:
 3.
 
 **Number of commits:**
+There are total 2,430 commits
 
 **Latest commit**
 21 Feb 2022
@@ -146,37 +149,39 @@ each of them list the link to their latest commit**:
 **Pull requests**
 
 - **how many open pull requests are there:**
-
+  total 29
   - **url for the last pull request created:**
-
+    https://gitlab.gnome.org/GNOME/gnome-clocks/-/merge_requests/201
   - **when was the last pull request made:**
-
+    22 Feb 2022
   - **url for the oldest pull request created:**
-
+    https://gitlab.gnome.org/GNOME/gnome-clocks/-/merge_requests/1
   - **when was the oldest pull request made:**
-
+    5 Jun 2018
 - **how many closed pull requests are there:**
-
+  total 30
   - **url for the last pull request closed:**
-
+    https://gitlab.gnome.org/GNOME/gnome-clocks/-/merge_requests/193
   - **how many users discussed the pull request:**
-
+    one
   - **when was the pull request made:**
-
+    26 Jan 2022
   - **when was the pull request closed:**
-
+    26 Jan 2022
 - **do maintainers respond quickly to pull requests when they are opened?**
+  Yes
 
 ---
 
 ## Summary assesment
 
 **How friendly is this project for beginner contributors?**
-
+Yes the project provided various information those are in need of
 **Do the maintainers respond helpfully to questions in issues?**
-
+Yes the maintainers respond quickly and friendly
 **Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?**
-
+Yes
 **Do pull requests get reviewed?**
-
+yes but nor frequently I think
 **Do maintainers thank people for their contributions?**
+I don't see any gratitude from the maintainers but I'm hope they do :)
