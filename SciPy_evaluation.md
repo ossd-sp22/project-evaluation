@@ -86,7 +86,7 @@ __Are these instructions clear? Do you think they would be easy to follow?__
 Yes, it’s as easy as “pip install scipy”
 
 __Number of contributors:__
-
+1100 contributors
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
@@ -96,9 +96,8 @@ Rgommers - https://github.com/scipy/scipy.org/commit/0f45433dc3deeb2e09a7822f541
 Teoliphant - https://github.com/scipy/scipy/commit/acad8c7f37d9aad45f2b5c451f41d3551626cea3
 
 
-
 __Number of commits:__
-
+27381 commits
 __Latest commit__
 The latest commit was a bug fix
 - __link to the commit:__
@@ -155,59 +154,68 @@ Many of them deal with documentation issues so that makes them quite accessible.
 Yes, many are! 
 
     - __how many of such issues are there?__
+There are 507 closed issues and 112 open issues marked “documentation”
     
     - __look at a few of them, do you think you could submit a fix?__ 
-
+I think we could definitely help with some of the documentation-related ones, but the others command a more technical level of insight that we’re uncertain about being able to provide. 
 
 
 __Pull requests__
 
 - __how many open pull requests are there:__
-
+337 
     - __url for the last pull request created:__
-    
+    https://github.com/scipy/scipy/pull/15637
+
     - __when was the last pull request made:__
-
+11 hours ago - approximately 4 am EST 2/22/22
     - __url for the oldest pull request created:__
-    
+    https://github.com/scipy/scipy/pull/1
+
     - __when was the oldest pull request made:__
-
+March 11, 2011
 - __how many closed pull requests are there:__
-
+7370
     - __url for the last pull request closed:__
-    
+    https://github.com/scipy/scipy/pull/15634
+
     - __how many users discussed the pull request:__
-    
+    4 users - rgommers, tirthasheshpatel, harshcasper, czgdp1807
     - __when was the pull request made:__
-    
+    15 hours ago - approximately 12 am EST 2/22/22
     - __when was the pull request closed:__
-    
+    4 hours ago - approximately 11 am EST 2/22/22
 
 - __do maintainers respond quickly to pull requests when they are opened?__ 
 
-
+It seems that reviewers reply within a few hours of a pull request being opened.
 
 
 
 ---
 
 
-## Summary assesment
+## Summary assessment
 __How friendly is this project for beginner contributors?__
 
+Other than documentation aspects, a lot of recent work appears to have been highly technical. It seems like a lot of discussion is done by the same core group of developers. 
 
 __Do the maintainers respond helpfully to questions in issues?__
 
+A lot of the times the maintainers simply merge issues with other ones to mark them as duplicates with no comment. But other than when that happens, they’re usually quite welcoming and even encourage those who raised the issue to submit a pull request.
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
 
+We couldn’t find a chat per se and the only way to find out would be to attend one of the “biweekly community calls.”
 
 
 __Do pull requests get reviewed?__
 
+Yes.
 
 
 __Do maintainers thank people for their contributions?__
 
+Yes, many issues that get resolved have a note of acknowledgement and thanks from the maintainers. 
 
 
