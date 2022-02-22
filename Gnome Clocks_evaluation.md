@@ -128,22 +128,25 @@ each of them list the link to their latest commit**:
   - **when was the issue closed:**
     21 Feb 2022
 - **how active is the discussion on the issues:**
+  very active and reponsive.
 
   - **example of a lot of good discussion:**
-
+    There's a closed issue related to Flatpak build fails. There are total 6 comments and followed until the issue is closed. The issue solved within 5 days.
   - **example of an issue that does not have much discussion:**
+    There is a feature request about choosing alarm sound but there is non comments. Also it's closed.
 
 - **are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:**
-
+  Yes, but not many. However there are some tags that indicated it might be simple to make it happen.
   - **how many of such issues are there?**
-
+    4 issues
   - **look at a few of them, do they look beginner friendly?**
-
+    Yes, it seems easy to understand what's the problem is.
 - **are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):**
-
+  Yes
   - **how many of such issues are there?**
-
+    2 issues
   - **look at a few of them, do you think you could submit a fix?**
+    it seems easy to fix
 
 **Pull requests**
 
