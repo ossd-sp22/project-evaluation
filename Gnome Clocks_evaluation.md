@@ -70,6 +70,7 @@ Yes. The license is OSI approved.
 Vala
 **URL for contributing instructions:**
 [Contributing.md Link](https://gitlab.gnome.org/GNOME/gnome-clocks/-/blob/master/CONTRIBUTING.md)
+
 # **Are the contributing instructions clear?**
 
 **Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:**
@@ -91,6 +92,7 @@ each of them list the link to their latest commit**:
 3.
 
 **Number of commits:**
+There are total 2,430 commits
 
 **Latest commit**
 21 Feb 2022
@@ -146,26 +148,27 @@ each of them list the link to their latest commit**:
 **Pull requests**
 
 - **how many open pull requests are there:**
-
+  total 29
   - **url for the last pull request created:**
-
+    https://gitlab.gnome.org/GNOME/gnome-clocks/-/merge_requests/201
   - **when was the last pull request made:**
-
+    22 Feb 2022
   - **url for the oldest pull request created:**
-
+    https://gitlab.gnome.org/GNOME/gnome-clocks/-/merge_requests/1
   - **when was the oldest pull request made:**
-
+    5 Jun 2018
 - **how many closed pull requests are there:**
-
+  total 30
   - **url for the last pull request closed:**
-
+    https://gitlab.gnome.org/GNOME/gnome-clocks/-/merge_requests/193
   - **how many users discussed the pull request:**
-
+    one
   - **when was the pull request made:**
-
+    26 Jan 2022
   - **when was the pull request closed:**
-
+    26 Jan 2022
 - **do maintainers respond quickly to pull requests when they are opened?**
+  Yes
 
 ---
 
