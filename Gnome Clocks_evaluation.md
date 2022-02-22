@@ -3,6 +3,7 @@
 
 
 __Project Name:__  
+GNOME Clocks
 
 
 ---
@@ -13,10 +14,14 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__
-
+__Project website:__ 
+https://wiki.gnome.org/Apps/Clocks
 
 __What is the purpose of the project:__
+1. Show the time in different cities around the world
+2. Set alarms to wake you up
+3. Measure elapsed time with an accurate stopwatch
+4. Set timers to properly cook your food
 
 
 __How easy was it to find information about contributing on the website?__
@@ -25,15 +30,18 @@ __How easy was it to find information about contributing on the website?__
 __Contributing instructions:__
 
 __URL for the code repository:__
+https://gitlab.gnome.org/GNOME/gnome-clocks/
 
 __Bug/Issue tracker link:__
+https://gitlab.gnome.org/GNOME/gnome-clocks/-/issues
 
 __Mailing list:__
+https://foundation.gnome.org/contact-us/
 
 __Chat channel:__
 
 __Other communication channels:__
-
+telephone
 
 ---
 
