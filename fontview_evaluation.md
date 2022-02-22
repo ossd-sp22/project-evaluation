@@ -113,29 +113,33 @@ __Issues__
     - __url for the last issue closed:__
         [here](https://github.com/googlefonts/fontview/issues/59)
     - __how many users discussed the issue:__
+        3
     - __when was the issue reported:__
+        May 10 2019
     - __when was the issue closed:__
-
+        December 4 2019
 - __how active is the discussion on the issues:__ 
-
+        Not super active 
     - __example of a lot of good discussion:__ 
-    
+        1. [Running into linux issues](https://github.com/googlefonts/fontview/issues/35)
+        2. [Issues with default font widths](https://github.com/googlefonts/fontview/issues/35)
     - __example of an issue that does not have much discussion:__
-
+        [Cannot build unless you're an admin](https://github.com/googlefonts/fontview/issues/22)
+        - contributor closer issue by themselves.
 
 
 - __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__
-
+    - Nothing was tagged.
     - __how many of such issues are there?__
-    
+    None. 
     - __look at a few of them, do they look beginner friendly?__ 
-
+    Maybe adding an [axis scrollbar](https://github.com/googlefonts/fontview/issues/25)
 
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__
-
+    In the closed issues there is an [update README](https://github.com/googlefonts/fontview/issues/30)
     - __how many of such issues are there?__
-    
+    1
     - __look at a few of them, do you think you could submit a fix?__ 
 
 
