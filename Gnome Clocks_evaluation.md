@@ -68,7 +68,7 @@ GNU GENERAL PUBLIC LICENSE _Version 2, June 1991_
 **Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:**
 Yes. The license is OSI approved.
 **Programming Language:**
-
+Vala
 **URL for contributing instructions:**
 
 # **Are the contributing instructions clear?**
