@@ -175,11 +175,12 @@ There are total 2,430 commits
 ## Summary assesment
 
 **How friendly is this project for beginner contributors?**
-
+Yes the project provided various information those are in need of
 **Do the maintainers respond helpfully to questions in issues?**
-
+Yes the maintainers respond quickly and friendly
 **Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?**
-
+Yes
 **Do pull requests get reviewed?**
-
+yes but nor frequently I think
 **Do maintainers thank people for their contributions?**
+I don't see any gratitude from the maintainers but I'm hope they do :)
