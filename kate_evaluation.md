@@ -14,26 +14,31 @@ found on the project website. Some of the answers will be impossible to find, ot
 may be very hard to find. Do not _google_ for answers.
 
 __Project website:__
-
+[Kate Editor](https://kate-editor.org/)
 
 __What is the purpose of the project:__
-
+Kate is an open source text editor. 
 
 __How easy was it to find information about contributing on the website?__
-
+It was relatively hidden, under the "More" dropdown. This might make it more difficult to access than other projects. 
 
 __Contributing instructions:__
+The instructions were easy to find and pretty clear once the "Join Us" page is found. In order to contribute, one must go to the [GitLab Instance](invent.kde.org) and open a new merge request. 
 
 __URL for the code repository:__
+[Kate Repository](https://invent.kde.org/utilities/kate)
 
 __Bug/Issue tracker link:__
+In the Kate Code repository, there are sections named "Issues" and "BugZilla". The "Issues" tab mainly highlights different tasks to be completed, while the "BugZilla" tab lists bugs that have come up that need fixing or have been fixed. 
 
 __Mailing list:__
+The [Kate Mailing List](kwrite-devel@kde.org) was found in the "More" tab, under "Get Help".
 
 __Chat channel:__
+[Chat Channel](irc://irc.libera.chat/kate) was found directly below the mailing list.
 
 __Other communication channels:__
-
+There is a [Blog](https://kate-editor.org/post/) option on the homepage, that allows users to see past posts. 
 
 ---
 

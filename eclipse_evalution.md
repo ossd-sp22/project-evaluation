@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  
+__Project Name:__  Eclipse
 
 
 ---
@@ -13,24 +13,24 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__
+__Project website:__ https://www.eclipse.org/
 
 
-__What is the purpose of the project:__
+__What is the purpose of the project:__ To provide their global community of individuals and organizations with a mature, scalable, and business-friendly environment for open source software collaboration and innovation.
 
 
-__How easy was it to find information about contributing on the website?__
+__How easy was it to find information about contributing on the website?__ Pretty easy because there are links that lead to the "How to Contribute" page. 
 
 
-__Contributing instructions:__
+__Contributing instructions:__ It depends on what you want to work on. There are links to fix bugs that you've been bothered by, whether you want to work on a new project, or contribute to an existing one. If you want to work on a new project, uou must go through a project proposal process, they will then do a provisioning process, and there is an after provisioning process. 
 
-__URL for the code repository:__
+__URL for the code repository:__ 
 
-__Bug/Issue tracker link:__
+__Bug/Issue tracker link:__ https://bugs.eclipse.org/bugs/query.cgi?format=specific
 
-__Mailing list:__
+__Mailing list:__ https://accounts.eclipse.org/mailing-list
 
-__Chat channel:__
+__Chat channel:__ eclipse.org/forums/
 
 __Other communication channels:__
 
@@ -39,18 +39,18 @@ __Other communication channels:__
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__
+__License:__ http://www.eclipse.org/legal/epl-2.0
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes
 
-__Programming Language:__
+__Programming Language:__ Java
 
-__URL for contributing instructions:__ 
+__URL for contributing instructions:__ https://www.eclipse.org/contribute/
 
-__Are the contributing instructions clear?__ 
+__Are the contributing instructions clear?__ There are many ways to contribute, but they are all clear
 
 
-__URL for code of conduct / community norms / community guildelines:__
+__URL for code of conduct / community norms / community guildelines:__ https://www.eclipse.org/org/documents/Community_Code_of_Conduct.php
 
 __URL for instructions for users to download and install the package:__
 
@@ -169,5 +169,6 @@ __Do pull requests get reviewed?__
 
 
 __Do maintainers thank people for their contributions?__
+
 
 
