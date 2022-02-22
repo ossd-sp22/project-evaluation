@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  
+__Project Name:__  OpenMRS
 
 
 ---
@@ -13,26 +13,30 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__
+__Project website:__ [https://openmrs.org/](https://openmrs.org/)
 
 
-__What is the purpose of the project:__
+__What is the purpose of the project:__ The purpose is to provide a software application that enables countries around the world to be able to maintain medical records.
 
 
-__How easy was it to find information about contributing on the website?__
+__How easy was it to find information about contributing on the website?__ It was very easy to find where to get involved, however, the information within the content was very broad and provided barely any information other than to pick an issue and code. It did not even specify where to pick an issue.
 
 
-__Contributing instructions:__
+__Contributing instructions:__ The website mentions various ways to get involved including design, mentoring, documentation, coding, planning, organizing, and public speaking. Although the Github page goes more in depth within each repo, there is a different CONTRIBUTING.md file that contains the steps on how to contribute. For instance, the openmrs-core repo instructs to first find a Jira ticket, code, ensure the tests pass, and commit the code.
 
-__URL for the code repository:__
+__URL for the code repository:__ [https://github.com/openmrs/](https://github.com/openmrs/)
 
-__Bug/Issue tracker link:__
+__Bug/Issue tracker link:__ [https://issues.openmrs.org/secure/Dashboard.jspa](https://issues.openmrs.org/secure/Dashboard.jspa)
 
-__Mailing list:__
+__Mailing list:__ From what it appears, there is no traditional mailing list. However, within this [community page](https://openmrs.org/community/) contains different communication platforms that OpenMRS uses.
 
-__Chat channel:__
+
+__Chat channel:__ It seems that the main chat channel for developers/contributors is [ID](https://id.openmrs.org/). However, there are three other channels as well for other purposes.
 
 __Other communication channels:__
+* [IRC Talk](https://wiki.openmrs.org/display/IRC/Home)
+* [Talk](https://talk.openmrs.org/)
+* [Atlas](https://atlas.openmrs.org/)
 
 
 ---
