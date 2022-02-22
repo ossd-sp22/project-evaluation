@@ -1,5 +1,4 @@
-GitHubGitHub# Project Evaluation Activity
-
+# Project Evaluation Activity
 
 
 __Project Name:__  Atom
@@ -62,7 +61,7 @@ __URL for code of conduct / community norms / community guildelines:__ Here is t
 __URL for instructions for users to download and install the package:__ Here is the link to the [README.md](https://github.com/atom/atom/blob/master/README.md) which contains the instructions for installation. They also created a Youtube [video](https://www.youtube.com/watch?v=U5POoGSrtGg) on how to work with Atom.
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ The instructions on the repository are fairly clear but a bit confusing when deciding which file to download as the [link](https://github.com/atom/atom/releases/tag/v1.59.0) brings you to a page that has many different "Assets" and you have to know which one is right for you and your system. The download option on the [Atom website](https://atom.io/) is much easier to follow as it downloads the correct file for you. 
+__Are these instructions clear? Do you think they would be easy to follow?__ The instructions on the repository are fairly clear but a bit confusing when deciding which file to download as the [link](https://github.com/atom/atom/releases/tag/v1.59.0) brings you to a page that has many different "Assets" and you have to know which one is right for you and your system. The download option on the [Atom website](https://atom.io/) is much easier to follow as it downloads the correct file for you.
 
 
 __Number of contributors:__ According to the [list](https://github.com/atom/atom/graphs/contributors), there are 489 contributors with the lead contributor, [Kevin Sawicki](https://github.com/kevinsawicki) having over 8500 commits.
