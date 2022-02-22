@@ -69,7 +69,7 @@ Yes. The license is OSI approved.
 **Programming Language:**
 Vala
 **URL for contributing instructions:**
-
+[Contributing.md Link](https://gitlab.gnome.org/GNOME/gnome-clocks/-/blob/master/CONTRIBUTING.md)
 # **Are the contributing instructions clear?**
 
 **Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:**
