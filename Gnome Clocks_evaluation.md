@@ -78,8 +78,9 @@ Vala
 
 **URL for instructions for users to download and install the package:**
 [Install Intructions](https://wiki.gnome.org/Projects/Vala/ValaPlatforms)
-**Are these instructions clear? Do you think they would be easy to follow?**
 
+**Are these instructions clear? Do you think they would be easy to follow?**
+Yes, the instructions are simple and clear. There is even different instructions for different operating systems. The intructions include the necessary packages that need to be installed, as well as a step by step procedure to compile and run the program on a local machine.
 **Number of contributors:**
 
 **Usernames of three contributors with largest number of commits; for
