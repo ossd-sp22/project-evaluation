@@ -141,7 +141,7 @@ __Issues__
     - __how many of such issues are there?__
     1
     - __look at a few of them, do you think you could submit a fix?__ 
-
+    In the closed issues there is an [update README](https://github.com/googlefonts/fontview/issues/30), which we think that we are able to fix it.
 
 
 __Pull requests__
