@@ -139,45 +139,51 @@ Replaced a deprecated plugin called CopyDir in favor of CopyPath.
 
 - **are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):** Yes
 
-  - **how many of such issues are there?** 184 open
+  - **how many of such issues are there?** 1 open
 
-  - **look at a few of them, do you think you could submit a fix?**
-
+  - **look at a few of them, do you think you could submit a fix?** The open issue is relatede to plugin and doesn’t seem easy to fix.
 
 **Pull requests**
 
-- **how many open pull requests are there:**
+- **how many open pull requests are there:** 399
 
-  - **url for the last pull request created:**
+  - **url for the last pull request created:** https://github.com/ohmyzsh/ohmyzsh/pull/10713 
 
-  - **when was the last pull request made:**
+  - **when was the last pull request made:** 23 hours
 
-  - **url for the oldest pull request created:**
+  - **url for the oldest pull request created:** https://github.com/ohmyzsh/ohmyzsh/pull/2054 
 
-  - **when was the oldest pull request made:**
+  - **when was the oldest pull request made:** Aug 20, 2013
 
-- **how many closed pull requests are there:**
+- **how many closed pull requests are there:** 5,958
 
-  - **url for the last pull request closed:**
+  - **url for the last pull request closed:** https://github.com/ohmyzsh/ohmyzsh/pull/10714
 
-  - **how many users discussed the pull request:**
+  - **how many users discussed the pull request:**  2
 
-  - **when was the pull request made:**
+  - **when was the pull request made:** Feb 22, 2022 Approximately 4:00am EST
 
-  - **when was the pull request closed:**
+  - **when was the pull request closed:** Feb 22, 2022 Approximately 5:00am EST
 
 - **do maintainers respond quickly to pull requests when they are opened?**
+- the project maintainers respond to pull request in average of 1 ~ 3 days. the number of requests they respond to is estimatably 1 ~ 3, which covers about the half of pull requests made in particular day.  
 
 ---
 
 ## Summary assesment
 
 **How friendly is this project for beginner contributors?**
+Although the project accepts simple contribution such as auto-upgrade work and sending PRs, the project doesn’t seems to be a suit for beginner contributors who don’t have a sufficient knowledge in terminal system.
+https://github.com/ohmyzsh/ohmyzsh/wiki/Contribution-Technical-Practices
 
-**Do the maintainers respond helpfully to questions in issues?**
+**Do the maintainers respond helpfully to questions in issues?** 
+ Yes. 
+ex) https://github.com/ohmyzsh/ohmyzsh/issues/10684
+https://github.com/ohmyzsh/ohmyzsh/issues/10652
 
 **Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?**
+Yes people are friendly in the discord server, and people response quickly
 
-**Do pull requests get reviewed?**
+**Do pull requests get reviewed?** Yes
 
-**Do maintainers thank people for their contributions?**
+**Do maintainers thank people for their contributions?** The maintainers mostly just approve the pull requests through github, sometimes with a thumbs up emoji.
