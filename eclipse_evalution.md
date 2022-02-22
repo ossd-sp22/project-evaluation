@@ -82,16 +82,19 @@ __Latest commit__
 
 __Issues__
 
-- __how many open issues are there:__ 
+https://bugs.eclipse.org/bugs/report.cgi?bug_file_loc=&bug_file_loc_type=allwordssubstr&bug_id=&bug_id_type=anyexact&chfieldfrom=&chfieldto=Now&chfieldvalue=&email1=&email2=&email3=&emailtype1=substring&emailtype2=substring&emailtype3=substring&field0-0-0=noop&keywords=&keywords_type=allwords&longdesc=&longdesc_type=allwordssubstr&short_desc=&short_desc_type=allwordssubstr&status_whiteboard=&status_whiteboard_type=allwordssubstr&type0-0-0=noop&value0-0-0=&votes=&votes_type=greaterthaneq&x_axis_field=resolution&y_axis_field=bug_status&z_axis_field=&width=600&height=350&action=wrap&format=table&product=JDT
 
-    - __url for the last issue created:__
+
+- __how many open issues are there:__ 5064
+
+    - __url for the last issue created:__ https://bugs.eclipse.org/bugs/show_bug.cgi?id=578911
 
     - __how many users discuss the issue:__
     
-    - __when was the issue reported:__
+    - __when was the issue reported:__ 2022-02-22 11:49
     
 
-- __how many closed issues are there:__
+- __how many closed issues are there:__ 
     - __url for the last issue closed:__
     - __how many users discussed the issue:__
     - __when was the issue reported:__
