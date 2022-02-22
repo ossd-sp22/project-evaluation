@@ -141,34 +141,34 @@ __Issues__
     - __how many of such issues are there?__
     1
     - __look at a few of them, do you think you could submit a fix?__ 
-
+    Probably not. 
 
 
 __Pull requests__
 
 - __how many open pull requests are there:__
-
+    2 open
     - __url for the last pull request created:__
-    
+    [last pull request](https://github.com/googlefonts/fontview/pull/55)
     - __when was the last pull request made:__
-
+    February 11 2019 
     - __url for the oldest pull request created:__
-    
+    [url for the oldest pull request](https://github.com/googlefonts/fontview/pull/1)
     - __when was the oldest pull request made:__
-
+    August 24 2016
 - __how many closed pull requests are there:__
-
+    20
     - __url for the last pull request closed:__
-    
+    [here](https://github.com/googlefonts/fontview/pull/62)
     - __how many users discussed the pull request:__
-    
+    Not really any discussion but it was approved. 
     - __when was the pull request made:__
-    
+    December 4 2019
     - __when was the pull request closed:__
-    
+    December 4 2020
 
 - __do maintainers respond quickly to pull requests when they are opened?__ 
-
+    Not really
 
 
 
