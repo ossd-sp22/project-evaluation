@@ -13,13 +13,13 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__
+__Project website:__ https://www.eclipse.org/
 
 
-__What is the purpose of the project:__
+__What is the purpose of the project:__ To provide their global community of individuals and organizations with a mature, scalable, and business-friendly environment for open source software collaboration and innovation.
 
 
-__How easy was it to find information about contributing on the website?__
+__How easy was it to find information about contributing on the website?__ Pretty easy because there are links that lead to the "How to Contribute" page. 
 
 
 __Contributing instructions:__
