@@ -68,13 +68,13 @@ https://github.com/ohmyzsh/ohmyzsh/blob/master/CONTRIBUTING.md
 
 **Are the contributing instructions clear?**
 
-Yes, it contains information about how to report issues, make pull requests, etc. Also has some personality to it which is fun (eg. One of the headers is “Use the Search, Luke” which is a Star Wars reference).
+Yes, it contains information about how to report issues, make pull requests, style guides and format etc. Also has some personality to it which is fun (eg. One of the headers is “Use the Search, Luke” which is a Star Wars reference).
 
 **URL for code of conduct / community norms / community guildelines:**
 
-Code of Conduct: https://github.com/ohmyzsh/ohmyzsh/blob/master/CODE_OF_CONDUCT.md
-Community Guideline: https://github.com/ohmyzsh/ohmyzsh/wiki/Volunteers
-Contributing Guideline: https://github.com/ohmyzsh/ohmyzsh/pull/3770
+- Code of Conduct: https://github.com/ohmyzsh/ohmyzsh/blob/master/CODE_OF_CONDUCT.md
+- Community Guideline: https://github.com/ohmyzsh/ohmyzsh/wiki/Volunteers
+- Contributing Guideline: https://github.com/ohmyzsh/ohmyzsh/pull/3770
 
 
 **URL for instructions for users to download and install the package:**
