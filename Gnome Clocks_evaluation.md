@@ -1,10 +1,7 @@
 # Project Evaluation Activity
 
-
-
-__Project Name:__  
+**Project Name:**  
 GNOME Clocks
-
 
 ---
 
@@ -14,169 +11,168 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ 
+**Project website:**
 https://wiki.gnome.org/Apps/Clocks
 
-__What is the purpose of the project:__
+**What is the purpose of the project:**
+
 1. Show the time in different cities around the world
 2. Set alarms to wake you up
 3. Measure elapsed time with an accurate stopwatch
 4. Set timers to properly cook your food
 
+**How easy was it to find information about contributing on the website?**
 
-__How easy was it to find information about contributing on the website?__
+Very easy and user friendly
 
+**Contributing instructions:**
 
-__Contributing instructions:__
+Make sure you have just what belongs there in the changeset.
+Read https://wiki.gnome.org/Git/CommitMessages carefully.
+The preferred way of appending patches to bugs is via git bz.
 
-__URL for the code repository:__
+As an alternative you can use "git format-patch HEAD~1".
+
+The bugtracker has some quite cool features; use them!
+Click on review to write comments to other or your patches or to comment
+comments on these patches.
+Dont be afraid about criticism! The review process is probably going to be
+long.
+We dont dislike you! We really appreciate your work.
+
+The best way to get started is to fix small bugs. If you don't find them, ask
+on IRC.
+
+**URL for the code repository:**
 https://gitlab.gnome.org/GNOME/gnome-clocks/
 
-__Bug/Issue tracker link:__
+**Bug/Issue tracker link:**
 https://gitlab.gnome.org/GNOME/gnome-clocks/-/issues
 
-__Mailing list:__
+**Mailing list:**
 https://foundation.gnome.org/contact-us/
 
-__Chat channel:__
+**Chat channel:**
 
-__Other communication channels:__
+**Other communication channels:**
 telephone
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__
+**License:**
+GNU GENERAL PUBLIC LICENSE _Version 2, June 1991_
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__
+**Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:**
+Yes. The license is OSI approved.
+**Programming Language:**
+Vala
+**URL for contributing instructions:**
+[Contributing.md Link](https://gitlab.gnome.org/GNOME/gnome-clocks/-/blob/master/CONTRIBUTING.md)
+# **Are the contributing instructions clear?**
 
-__Programming Language:__
+**Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:**
 
-__URL for contributing instructions:__ 
+**URL for code of conduct / community norms / community guildelines:**
 
-__Are the contributing instructions clear?__ 
+**URL for instructions for users to download and install the package:**
 
+**Are these instructions clear? Do you think they would be easy to follow?**
 
-__URL for code of conduct / community norms / community guildelines:__
+**Number of contributors:**
 
-__URL for instructions for users to download and install the package:__
-
-
-__Are these instructions clear? Do you think they would be easy to follow?__
-
-
-__Number of contributors:__
-
-
-__Usernames of three contributors with largest number of commits; for
-each of them list the link to their latest commit__:
+**Usernames of three contributors with largest number of commits; for
+each of them list the link to their latest commit**:
 
 1.
 2.
 3.
 
+**Number of commits:**
 
-__Number of commits:__
+**Latest commit**
+21 Feb 2022
 
-__Latest commit__
+- **link to the commit:**
+  https://gitlab.gnome.org/GNOME/gnome-clocks/-/commit/223ee264cc397c19a89d03ddcff200310bba7099
+- **who made that commit:**
+  Danial Behzadi
+- **what type of work was commited?** (was it a fix to a bug, implementation of a new feature, ...)
+  it was an persian traslation update
 
-- __link to the commit:__
+**Issues**
 
-- __who made that commit:__
+- **how many open issues are there:**
+  There are total 77 open issues
+  - **url for the last issue created:**
+    https://gitlab.gnome.org/GNOME/gnome-clocks/-/issues/227
+  - **how many users discuss the issue:**
+    none
+  - **when was the issue reported:**
+    20 Feb 2022
+- **how many closed issues are there:**
+  There are total 151 closed issues
+  - **url for the last issue closed:**
+    https://gitlab.gnome.org/GNOME/gnome-clocks/-/issues/228
+  - **how many users discussed the issue:**
+    one user discussed
+  - **when was the issue reported:**
+    20 Feb 2022
+  - **when was the issue closed:**
+    21 Feb 2022
+- **how active is the discussion on the issues:**
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+  - **example of a lot of good discussion:**
 
+  - **example of an issue that does not have much discussion:**
 
-__Issues__
+- **are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:**
 
-- __how many open issues are there:__
+  - **how many of such issues are there?**
 
-    - __url for the last issue created:__
+  - **look at a few of them, do they look beginner friendly?**
 
-    - __how many users discuss the issue:__
-    
-    - __when was the issue reported:__
-    
+- **are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):**
 
-- __how many closed issues are there:__
-    - __url for the last issue closed:__
-    - __how many users discussed the issue:__
-    - __when was the issue reported:__
-    - __when was the issue closed:__
+  - **how many of such issues are there?**
 
-- __how active is the discussion on the issues:__ 
+  - **look at a few of them, do you think you could submit a fix?**
 
-    - __example of a lot of good discussion:__ 
-    
-    - __example of an issue that does not have much discussion:__
+**Pull requests**
 
+- **how many open pull requests are there:**
 
+  - **url for the last pull request created:**
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__
+  - **when was the last pull request made:**
 
-    - __how many of such issues are there?__
-    
-    - __look at a few of them, do they look beginner friendly?__ 
+  - **url for the oldest pull request created:**
 
+  - **when was the oldest pull request made:**
 
+- **how many closed pull requests are there:**
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__
+  - **url for the last pull request closed:**
 
-    - __how many of such issues are there?__
-    
-    - __look at a few of them, do you think you could submit a fix?__ 
+  - **how many users discussed the pull request:**
 
+  - **when was the pull request made:**
 
+  - **when was the pull request closed:**
 
-__Pull requests__
-
-- __how many open pull requests are there:__
-
-    - __url for the last pull request created:__
-    
-    - __when was the last pull request made:__
-
-    - __url for the oldest pull request created:__
-    
-    - __when was the oldest pull request made:__
-
-- __how many closed pull requests are there:__
-
-    - __url for the last pull request closed:__
-    
-    - __how many users discussed the pull request:__
-    
-    - __when was the pull request made:__
-    
-    - __when was the pull request closed:__
-    
-
-- __do maintainers respond quickly to pull requests when they are opened?__ 
-
-
-
-
+- **do maintainers respond quickly to pull requests when they are opened?**
 
 ---
 
-
 ## Summary assesment
-__How friendly is this project for beginner contributors?__
 
+**How friendly is this project for beginner contributors?**
 
-__Do the maintainers respond helpfully to questions in issues?__
+**Do the maintainers respond helpfully to questions in issues?**
 
+**Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?**
 
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
+**Do pull requests get reviewed?**
 
-
-
-__Do pull requests get reviewed?__
-
-
-
-__Do maintainers thank people for their contributions?__
-
-
-
+**Do maintainers thank people for their contributions?**
