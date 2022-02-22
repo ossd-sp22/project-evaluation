@@ -24,7 +24,7 @@ __How easy was it to find information about contributing on the website?__ Prett
 
 __Contributing instructions:__
 
-__URL for the code repository:__
+__URL for the code repository:__ https://git.eclipse.org/r/plugins/gitiles/jdt/eclipse.jdt.core.binaries
 
 __Bug/Issue tracker link:__
 
