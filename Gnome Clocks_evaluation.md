@@ -61,14 +61,13 @@ telephone
 
 ## Finding info at the project repository and bug/issue tracker.
 
-<<<<<<< Updated upstream
 **License:**
 GNU GENERAL PUBLIC LICENSE _Version 2, June 1991_
 
 **Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:**
 Yes. The license is OSI approved.
 **Programming Language:**
-
+Vala
 **URL for contributing instructions:**
 
 # **Are the contributing instructions clear?**
@@ -99,30 +98,35 @@ each of them list the link to their latest commit**:
 **Number of commits:**
 
 **Latest commit**
+21 Feb 2022
 
 - **link to the commit:**
-
+  https://gitlab.gnome.org/GNOME/gnome-clocks/-/commit/223ee264cc397c19a89d03ddcff200310bba7099
 - **who made that commit:**
-
+  Danial Behzadi
 - **what type of work was commited?** (was it a fix to a bug, implementation of a new feature, ...)
+  it was an persian traslation update
 
 **Issues**
 
 - **how many open issues are there:**
-
+  There are total 77 open issues
   - **url for the last issue created:**
-
+    https://gitlab.gnome.org/GNOME/gnome-clocks/-/issues/227
   - **how many users discuss the issue:**
-
+    none
   - **when was the issue reported:**
-
+    20 Feb 2022
 - **how many closed issues are there:**
-
+  There are total 151 closed issues
   - **url for the last issue closed:**
+    https://gitlab.gnome.org/GNOME/gnome-clocks/-/issues/228
   - **how many users discussed the issue:**
+    one user discussed
   - **when was the issue reported:**
+    20 Feb 2022
   - **when was the issue closed:**
-
+    21 Feb 2022
 - **how active is the discussion on the issues:**
 
   - **example of a lot of good discussion:**
