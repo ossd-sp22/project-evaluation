@@ -48,9 +48,10 @@ telephone
 ## Finding info at the project repository and bug/issue tracker.
 
 __License:__
+GNU GENERAL PUBLIC LICENSE *Version 2, June 1991*
 
 __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__
-
+Yes. The license is OSI approved.
 __Programming Language:__
 
 __URL for contributing instructions:__ 
