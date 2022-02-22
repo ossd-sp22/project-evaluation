@@ -70,7 +70,7 @@ __Number of contributors:__ According to the [list](https://github.com/atom/atom
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1.
+1. kevinsawicki
 2.
 3.
 
