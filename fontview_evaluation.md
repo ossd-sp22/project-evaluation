@@ -182,19 +182,19 @@ __Pull requests__
 
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
-
+Might not be super friendly. 
 
 __Do the maintainers respond helpfully to questions in issues?__
-
+Not since 2019
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
+People are generally friendly in the issues thread but there isn't an official chat for people to communicate about issues.
 
 
 __Do pull requests get reviewed?__
-
+Not since 2019
 
 
 __Do maintainers thank people for their contributions?__
-
+Yes! 
 

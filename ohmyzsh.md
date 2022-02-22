@@ -72,9 +72,9 @@ Yes, it contains information about how to report issues, make pull requests, etc
 
 **URL for code of conduct / community norms / community guildelines:**
 
-Code of Conduct: https://github.com/ohmyzsh/ohmyzsh/blob/master/CODE_OF_CONDUCT.md
-Community Guideline: https://github.com/ohmyzsh/ohmyzsh/wiki/Volunteers
-Contributing Guideline: https://github.com/ohmyzsh/ohmyzsh/pull/3770
+- Code of Conduct: https://github.com/ohmyzsh/ohmyzsh/blob/master/CODE_OF_CONDUCT.md
+- Community Guideline: https://github.com/ohmyzsh/ohmyzsh/wiki/Volunteers
+- Contributing Guideline: https://github.com/ohmyzsh/ohmyzsh/pull/3770
 
 
 **URL for instructions for users to download and install the package:**
