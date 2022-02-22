@@ -16,7 +16,7 @@ https://ohmyz.sh/
 
 **What is the purpose of the project:**
 
-Makes using terminal much easier to manuvear and more beautiful with hundreds of plugins.
+Makes using terminal much easier to maneuver and more beautiful with hundreds of plugins.
 
 **How easy was it to find information about contributing on the website?**
 
