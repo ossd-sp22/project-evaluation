@@ -22,13 +22,13 @@ __What is the purpose of the project:__ To provide their global community of ind
 __How easy was it to find information about contributing on the website?__ Pretty easy because there are links that lead to the "How to Contribute" page. 
 
 
-__Contributing instructions:__
+__Contributing instructions:__ It depends on what you want to work on. There are links to fix bugs that you've been bothered by, whether you want to work on a new project, or contribute to an existing one. If you want to work on a new project, uou must go through a project proposal process, they will then do a provisioning process, and there is an after provisioning process. 
 
-__URL for the code repository:__
+__URL for the code repository:__ https://git.eclipse.org/r/plugins/gitiles/jdt/eclipse.jdt.core.binaries
 
-__Bug/Issue tracker link:__
+__Bug/Issue tracker link:__ https://bugs.eclipse.org/bugs/query.cgi?format=specific
 
-__Mailing list:__
+__Mailing list:__ https://accounts.eclipse.org/mailing-list
 
 __Chat channel:__
 
