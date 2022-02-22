@@ -74,12 +74,6 @@ Vala
 
 **Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:**
 
-**Programming Language:**
-
-**URL for contributing instructions:**
-
-**Are the contributing instructions clear?**
-
 **URL for code of conduct / community norms / community guildelines:**
 
 **URL for instructions for users to download and install the package:**
