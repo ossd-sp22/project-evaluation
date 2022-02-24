@@ -70,6 +70,7 @@ __Number of contributors:__ According to the [list](https://github.com/atom/atom
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
+*(Answers accurate as of 2/22/22 7pm).*
 1. kevinsawicki [latest commit](https://github.com/atom/atom/commit/52fb79172c1a2d9723108f5a309c958ae41878fb)
 2. benogle [latest comit](https://github.com/atom/atom/commit/ea2d72f314e24f1aee8c336064986520e1877895)
 3. maxbrunsfeld [latest comit](https://github.com/atom/atom/commit/847e787014ceff5a1f573985ef59aacc350c48df)
@@ -79,9 +80,9 @@ __Number of commits:__ 38,483
 
 __Latest commit__ Feb 21, 2022
 
-- __link to the commit:__ [link](https://github.com/atom/atom/commit/e157187a0fb8145a1dfbf651cb67518870d54ee5)
+- __link to the commit:__ Latest commit can be found [here](https://github.com/atom/atom/commit/e157187a0fb8145a1dfbf651cb67518870d54ee5).
 
-- __who made that commit:__ [darangi](https://github.com/darangi)
+- __who made that commit:__ [Darangi](https://github.com/darangi) made the commit.
 
 - __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
 It was merging a pull request to update the version of Ruby from 72.23 to 73.0
@@ -90,7 +91,7 @@ __Issues__
 
 - __how many open issues are there:__ 787
 
-    - __url for the last issue created:__ [link](https://github.com/atom/atom/issues/23645)
+    - __url for the last issue created:__ The last issue created is [this](https://github.com/atom/atom/issues/23645).
 
     - __how many users discuss the issue:__ None have commented
 
@@ -98,16 +99,16 @@ __Issues__
 
 
 - __how many closed issues are there:__ 16,079
-    - __url for the last issue closed:__ [link](https://github.com/atom/atom/issues/23637)
+    - __url for the last issue closed:__ The last issue that was closed was this [one](https://github.com/atom/atom/issues/23637).
     - __how many users discussed the issue:__ One person responded to the issue
     - __when was the issue reported:__ Issue reported Feb 20, 2022
     - __when was the issue closed:__ Issue closed Feb 20, 2022
 
 - __how active is the discussion on the issues:__ Usually there is 1-3 comments per closed issue so not a ton of discussion.
 
-    - __example of a lot of good discussion:__ [link to issue](https://github.com/atom/atom/issues/2654)
+    - __example of a lot of good discussion:__ Here is a [link to issue](https://github.com/atom/atom/issues/2654) that has good discussion.
 
-    - __example of an issue that does not have much discussion:__ [link to issue](https://github.com/atom/atom/issues/23529)
+    - __example of an issue that does not have much discussion:__ Here is a [link to issue](https://github.com/atom/atom/issues/23529) of an issue that lacks discussion.
 
 
 
@@ -124,32 +125,31 @@ __Issues__
     - __look at a few of them, do you think you could submit a fix?__ Yes I could, although these issues are more so calls for larger documents such as manuals and coding convention documents to be created.
 
 
-__Pull requests__
+__Pull requests__ *(Information accurate as of 2/23/22 10pm)*
 
-- __how many open pull requests are there:__
+- __how many open pull requests are there:__ There are [ten](https://github.com/atom/atom/pulls) open pull request.
 
-    - __url for the last pull request created:__
+    - __url for the last pull request created:__ This was the [last](https://github.com/atom/atom/pull/23613) pull request. It was related to .coffee compilations files.
 
-    - __when was the last pull request made:__
+    - __when was the last pull request made:__ It was made eight days ago (Feb 22nd 2022).
 
-    - __url for the oldest pull request created:__
+    - __url for the oldest pull request created:__ The oldest pull request is technically a [draft](https://github.com/atom/atom/pull/22973) regarding changes to dimensions. The oldest open pull request is this [one](https://github.com/atom/atom/pull/23136) about themes.
 
-    - __when was the oldest pull request made:__
+    - __when was the oldest pull request made:__ The draft pull request was made on September 13th, 2021. The open pull request was made on October 23rd, 2021.
 
-- __how many closed pull requests are there:__
+- __how many closed pull requests are there:__ There are [5189](https://github.com/atom/atom/pulls?q=is%3Apr+is%3Aclosed) closed pull requests.
 
-    - __url for the last pull request closed:__
+    - __url for the last pull request closed:__ The [last](https://github.com/atom/atom/pull/23647) pull request involved dependencies.
 
-    - __how many users discussed the pull request:__
+    - __how many users discussed the pull request:__ There was no discussion involving this pull request. It was made by [DeeDeeG](https://github.com/DeeDeeG) and then merged by [darangi](https://github.com/darangi) without approval or discussion.
 
-    - __when was the pull request made:__
+    - __when was the pull request made:__ The pull request was made 2/22/22 (roughly a day ago).
 
-    - __when was the pull request closed:__
+    - __when was the pull request closed:__ It was closed and merged twenty hours ago, roughly four hours after the pull request was made.
 
 
 - __do maintainers respond quickly to pull requests when they are opened?__
-
-
+Most pull requests either do not have any discussions. Otherwise, if there are  discussions, they happen quickly (~ a day turnover) between two users – [icecream17](https://github.com/icecream17) and [darangi](https://github.com/darangi).
 
 
 
@@ -159,16 +159,24 @@ __Pull requests__
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
 
+This project isn't that friendly for beginner contributors. While they are welcoming and do have really comprehensive instructions on how to contribute, code contributions at least seem to be between two main maintainers with not much discussion between each pull request. They have over 750 issues yet most of them are not tagged (with none of them being tagged `beginner-friendly`) which might make joining feel really intimidating at first.
+
+Also the nature of the issues might be beyond the scope of what we are expected to know. While some issues follow their expected format of Steps to Reproduce, Stack Trace, and Non-Core Packages, others just mention a given bug with no other description. As such, it's hard to assume who, if anyone, is working a given pull request or even the nature of the pull request.
 
 __Do the maintainers respond helpfully to questions in issues?__
 
+A lot of the issues currently opened to not have any discussion involved at all. Issues that do ask questions sometimes get comments from other non-contributors that support the issue. There is only one instance [here](https://github.com/atom/atom/issues/23593) out of the first page of issue where maintainers respond to an issue.
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
 
+While there is not much discussion, the discussion that is there is very direct and straightforward. In most cases, it's simply either an agreement with an issue or a suggestion for something else. On their discussion page, the community does seem welcoming. In this [post](https://github.com/atom/atom/discussions/22847) on the status of Atom, there is evidence that there is still a strong sense of community.
 
 
 __Do pull requests get reviewed?__
 
+Pull request typically do not get reviewed – they either get merged within a few hours or are closed. Even when they get closed by the maintainers, there are no comments that explain why the PR gets rejected.
 
 
-__Do maintainers thank people for their contributions?__ With two thumbs up and a confetti, it's the very first line of the contributing page.
+__Do maintainers thank people for their contributions?__
+
+With two thumbs up and a confetti, it's the very first line of the [contributing](https://github.com/atom/atom/blob/master/CONTRIBUTING.md) page. However, it is hard to find, if it exists, a list of all the contributors past the default one Github has.
