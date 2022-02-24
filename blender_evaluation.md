@@ -82,7 +82,7 @@ __Latest commit__ Cleanup: Remove unused mesh dirty flags
 
 __Issues__
 
-- __how many open issues are there:__ [1984 Open Issues](https://developer.blender.org/maniphest/project/2/)
+- __how many open issues are there:__ [2169 Open Issues](https://developer.blender.org/maniphest/project/2/query/WexAwhh3nuQ7/#R)
 
     - __url for the last issue created:__ [Last issue created](https://developer.blender.org/T95917)
 
@@ -91,7 +91,7 @@ __Issues__
     - __when was the issue reported:__ February 20, 2022
     
 
-- __how many closed issues are there:__ 31242 closed issues
+- __how many closed issues are there:__ [59401 closed issues](https://developer.blender.org/maniphest/project/2/query/xW5t.X135FpW/#R)
     - __url for the last issue closed:__ [Last issue closed](https://developer.blender.org/T95908)
     - __how many users discussed the issue:__ 4
     - __when was the issue reported:__ February 20, 2022
@@ -99,52 +99,52 @@ __Issues__
 
 - __how active is the discussion on the issues:__ *Very* active. The last closed issue was made just a couple days ago, and it was resolved within a day. 
 
-    - __example of a lot of good discussion:__ 
+    - __example of a lot of good discussion:__ [Good discussion](https://developer.blender.org/T95945)
     
-    - __example of an issue that does not have much discussion:__
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://developer.blender.org/T95721)
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ Yes! You can find them [here](https://developer.blender.org/maniphest/project/34/query/open/).
 
-    - __how many of such issues are there?__
+    - __how many of such issues are there?__ 35 issues
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ They do look beginner friendly once you familiarize yourself with the project. 
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ [Yes](https://developer.blender.org/maniphest/query/CZsLp6FxY4Cl/#R)
 
-    - __how many of such issues are there?__
+    - __how many of such issues are there?__ 9 issues
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ Yes they have instructions for how to contribute to documentation [here](https://docs.blender.org/manual/en/dev/about/index.html#about-user-contribute).
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__
+- __how many open pull requests are there:__ [6 confirmed](https://developer.blender.org/maniphest/query/eyFZILgVZrOq/#R)
 
-    - __url for the last pull request created:__
+    - __url for the last pull request created:__ [Last Patch / Pull Request created](https://developer.blender.org/T95687)
     
-    - __when was the last pull request made:__
+    - __when was the last pull request made:__ [Last Patch / Pull Request created](https://developer.blender.org/T95687)
 
-    - __url for the oldest pull request created:__
+    - __url for the oldest pull request created:__ [Oldest Patch/ Pull Request created](https://developer.blender.org/T73602)
     
-    - __when was the oldest pull request made:__
+    - __when was the oldest pull request made:__ [Oldest Patch/ Pull Request made](https://developer.blender.org/T73602)
 
-- __how many closed pull requests are there:__
+- __how many closed pull requests are there:__ [3247 closed](https://developer.blender.org/maniphest/query/eVJ8idP9SqG7/#R)
 
-    - __url for the last pull request closed:__
+    - __url for the last pull request closed:__ [Last Patch / Pull Request closed](https://developer.blender.org/T76656)
     
-    - __how many users discussed the pull request:__
+    - __how many users discussed the pull request:__ 5 users
     
-    - __when was the pull request made:__
+    - __when was the pull request made:__  May 11, 2020 10:08 AM
     
-    - __when was the pull request closed:__
+    - __when was the pull request closed:__ May 12, 2020 9:02 AM
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Yes, absolutely!
 
 
 
@@ -156,19 +156,24 @@ __Pull requests__
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
 
+This project is very friendly. There is a comprehensive guide detailing how to get started, and the developer chat is always there to help.
+
 
 __Do the maintainers respond helpfully to questions in issues?__
+
+We believe so. Many of the maintainers are very quick to reply, and we didn’t notice any hostile reactions from anyone when somebody asked for help.
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
 
+Yes, there are always questions being asked and people will always help and try to answer those questions in a polite and friendly manner.
 
 
 __Do pull requests get reviewed?__
 
-
+They definitely do get reviewed. The fact that there were thousands of closed “patches” (they’re called patches but they essentially serve as pull requests) while there were only 6 open ones should show that they do get reviewed quickly. Additionally, the last closed patch was reviewed and closed just a day after it was created.
 
 __Do maintainers thank people for their contributions?__
 
-
+Maintainers get recognized for their contributions on the website. They list all the contributors and the number of contributions they made.
 
