@@ -182,16 +182,26 @@ __Issues__
     Yes!
 
     - __how many of such issues are there?__
+
+    There are 6 currently open, and 36 total including closed issues.
     
     - __look at a few of them, do they look beginner friendly?__ 
+
+    Yes, they often don't require any coding at all and just a good understanding of how obs works.
 
 
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__
 
+    Yes!
+
     - __how many of such issues are there?__
+
+    1
     
     - __look at a few of them, do you think you could submit a fix?__ 
+
+    Not with a good amount of research, as it asks to fully update the obs documentation on the flathub site.
 
 
 
@@ -199,28 +209,48 @@ __Pull requests__
 
 - __how many open pull requests are there:__
 
+    161
+
     - __url for the last pull request created:__
+
+    https://github.com/obsproject/obs-studio/pull/6012
     
     - __when was the last pull request made:__
 
+    18 hours ago
+
     - __url for the oldest pull request created:__
+
+    https://github.com/obsproject/obs-studio/pull/1253
     
     - __when was the oldest pull request made:__
 
+    Apr 6, 2018
+
 - __how many closed pull requests are there:__
 
+    3711 
+
     - __url for the last pull request closed:__
+
+    https://github.com/obsproject/obs-studio/pull/6011
     
     - __how many users discussed the pull request:__
+
+    2
     
     - __when was the pull request made:__
+
+    19 hours ago (2/23/2022)
     
     - __when was the pull request closed:__
+
+    19 hours ago (2/23/2022)
     
 
 - __do maintainers respond quickly to pull requests when they are opened?__ 
 
-
+    Yes, it appears that for the most part, they tend to reply day of, if not within a few hours.
 
 
 
@@ -230,19 +260,27 @@ __Pull requests__
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
 
+It appears to be a very friendly community that gives the resourses needed for those of many skill levels to join. For a beginner, it may be a little harder as a result of how big a project it is, but with some work is doable.
+
 
 __Do the maintainers respond helpfully to questions in issues?__
+
+Yes! it seems the collaborators are friendly and respond in a timely manner.
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
 
+While such a large community could make it daunting to join in on conversation, everone seems to be rather respectful and welcoming.
 
 
 __Do pull requests get reviewed?__
 
+It doesn't look like the all do, but a good amount.
 
 
 __Do maintainers thank people for their contributions?__
+
+With such a large group, it looks like it's rather hard to thank each contribution individually, though it looks like in general they're rather friendly.
 
 
 
