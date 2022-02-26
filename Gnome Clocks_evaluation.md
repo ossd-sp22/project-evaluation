@@ -77,8 +77,12 @@ Yes. The contributing instructions seem very beginner friendly. There are intera
 
 **URL for code of conduct / community norms / community guildelines:**
 
+[Code of Conduct](https://wiki.gnome.org/Foundation/CodeOfConduct)
+
 **URL for instructions for users to download and install the package:**
+
 [Install Intructions](https://wiki.gnome.org/Projects/Vala/ValaPlatforms)
+
 
 **Are these instructions clear? Do you think they would be easy to follow?**
 Yes, the instructions are simple and clear. There is even different instructions for different operating systems. The intructions include the necessary packages that need to be installed, as well as a step by step procedure to compile and run the program on a local machine.
