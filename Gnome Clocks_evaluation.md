@@ -72,8 +72,8 @@ Vala
 [Contributing.md Link](https://gitlab.gnome.org/GNOME/gnome-clocks/-/blob/master/CONTRIBUTING.md)
 
 # **Are the contributing instructions clear?**
+
 Yes. The contributing instructions seem very beginner friendly. There are interactive videos and references for developers who are unfamiliar with the language. As someone who never worked with these technologies, I feel encouraged to contribute.
-**Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:**
 
 **URL for code of conduct / community norms / community guildelines:**
 
