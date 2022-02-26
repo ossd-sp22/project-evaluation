@@ -53,7 +53,7 @@ https://gitlab.gnome.org/GNOME/gnome-clocks/-/issues
 https://foundation.gnome.org/contact-us/
 
 **Chat channel:**
-
+[IRC or Matrix](https://wiki.gnome.org/GettingInTouch/IRC)
 **Other communication channels:**
 telephone
 
