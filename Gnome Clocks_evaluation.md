@@ -92,9 +92,12 @@ Yes, the instructions are simple and clear. There is even different instructions
 **Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit**:
 
-1.
-2.
-3.
+1. @pborelli
+  * [latest commit](https://gitlab.gnome.org/GNOME/gnome-clocks/-/commit/d04cc7f38507b7fe8a58628bff75f0a40a32df83)
+2. @bilelmoussaoui
+  * [latest commit](https://gitlab.gnome.org/GNOME/gnome-clocks/-/commit/04250e0abebcdeb93048424cdd7d1e4b2c875726)
+3. @piotrdrag
+  * [latest commit](https://gitlab.gnome.org/GNOME/gnome-clocks/-/commit/2aa4702abd71672dc8a16d19d87b283b6489896a)
 
 **Number of commits:**
 There are total 2,430 commits
