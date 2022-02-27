@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  Eclipse
+__Project Name:__  Eclipse (mainly the Java Developer Tool Project)
 
 
 ---
@@ -85,42 +85,47 @@ __Issues__
 https://bugs.eclipse.org/bugs/report.cgi?bug_file_loc=&bug_file_loc_type=allwordssubstr&bug_id=&bug_id_type=anyexact&chfieldfrom=&chfieldto=Now&chfieldvalue=&email1=&email2=&email3=&emailtype1=substring&emailtype2=substring&emailtype3=substring&field0-0-0=noop&keywords=&keywords_type=allwords&longdesc=&longdesc_type=allwordssubstr&short_desc=&short_desc_type=allwordssubstr&status_whiteboard=&status_whiteboard_type=allwordssubstr&type0-0-0=noop&value0-0-0=&votes=&votes_type=greaterthaneq&x_axis_field=resolution&y_axis_field=bug_status&z_axis_field=&width=600&height=350&action=wrap&format=table&product=JDT
 
 
-- __how many open issues are there:__ 5064
+- __how many open issues are there:__ 5075
 
-    - __url for the last issue created:__ https://bugs.eclipse.org/bugs/show_bug.cgi?id=578911
+    - __url for the last issue created:__ https://bugs.eclipse.org/bugs/show_bug.cgi?id=578996
 
-    - __how many users discuss the issue:__
+    - __how many users discuss the issue:__ 1
     
-    - __when was the issue reported:__ 2022-02-22 11:49
+    - __when was the issue reported:__ 2022-02-27 03:40
     
 
-- __how many closed issues are there:__ 
-    - __url for the last issue closed:__
-    - __how many users discussed the issue:__
-    - __when was the issue reported:__
-    - __when was the issue closed:__
+- __how many closed issues are there:__ 58,078 (resolved + verfied + closed)
 
-- __how active is the discussion on the issues:__ 
-
-    - __example of a lot of good discussion:__ 
+    - __url for the last issue closed:__ https://bugs.eclipse.org/bugs/show_bug.cgi?id=578919
     
-    - __example of an issue that does not have much discussion:__
-
-
-
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__
-
-    - __how many of such issues are there?__
+    - __how many users discussed the issue:__ 1
     
-    - __look at a few of them, do they look beginner friendly?__ 
-
-
-
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__
-
-    - __how many of such issues are there?__
+    - __when was the issue reported:__ 2022-02-23 01:41
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __when was the issue closed:__ 2022-02-23 04:14
+    
+
+- __how active is the discussion on the issues:__ Not active
+
+    - __example of a lot of good discussion:__ https://bugs.eclipse.org/bugs/show_bug.cgi?id=578819 This is a recent one with comments, but it barely counts as discussion, it is just working log.
+    
+    - __example of an issue that does not have much discussion:__ https://bugs.eclipse.org/bugs/show_bug.cgi?id=578996
+
+
+
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ nope
+
+    - __how many of such issues are there?__ /
+    
+    - __look at a few of them, do they look beginner friendly?__ /
+
+
+
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ no
+
+    - __how many of such issues are there?__ /
+    
+    - __look at a few of them, do you think you could submit a fix?__ /
 
 
 
@@ -157,10 +162,10 @@ __Pull requests__
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__
+__How friendly is this project for beginner contributors?__ It is not very friendly for beginners, especially if someone wants to contribute to the code. Eclipse uses their own Git system which is a lot more confusing and less appealing than GitHub. 
 
 
-__Do the maintainers respond helpfully to questions in issues?__
+__Do the maintainers respond helpfully to questions in issues?__ The maintainers seem active, responding to some questions within one to two hours, but at the same time most questions are ignored and got no responce at all. 
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
@@ -171,7 +176,7 @@ __Do pull requests get reviewed?__
 
 
 
-__Do maintainers thank people for their contributions?__
+__Do maintainers thank people for their contributions?__ I haven't seen any.
 
 
 
