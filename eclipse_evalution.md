@@ -176,7 +176,7 @@ __Do pull requests get reviewed?__
 
 
 
-__Do maintainers thank people for their contributions?__ I haven't seen any.
+__Do maintainers thank people for their contributions?__ I haven't seen any. But I guess most problems are solved by the maintainers themselves.
 
 
 
