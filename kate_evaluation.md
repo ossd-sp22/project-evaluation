@@ -108,61 +108,61 @@ __Issues__
     - __when was the issue reported:__ February 22
     
 
-- __how many closed issues are there:__
-    - __url for the last issue closed:__
-    - __how many users discussed the issue:__
-    - __when was the issue reported:__
-    - __when was the issue closed:__
+- __how many closed issues are there:__ 38 on GitLab; unknown on Bugzilla
+    - __url for the last issue closed:__ [Link](https://invent.kde.org/utilities/kate/-/issues/20)
+    - __how many users discussed the issue:__ 26
+    - __when was the issue reported:__ Jan 10 2021
+    - __when was the issue closed:__ 3 days ago (Feb 24 2022)
 
-- __how active is the discussion on the issues:__ 
+- __how active is the discussion on the issues:__ Varies considerably. Most issues have 0 or 1 comments.
 
-    - __example of a lot of good discussion:__ 
+    - __example of a lot of good discussion:__ [Link](https://invent.kde.org/utilities/kate/-/issues/53)
     
-    - __example of an issue that does not have much discussion:__
+    - __example of an issue that does not have much discussion:__ [Link](https://invent.kde.org/utilities/kate/-/issues/51)
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ No.
 
-    - __how many of such issues are there?__
+    - __how many of such issues are there?__ N/A
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ N/A
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ No.
 
-    - __how many of such issues are there?__
+    - __how many of such issues are there?__ N/A
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ N/A
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__
+- __how many open pull requests are there:__ 6, and they're called merge requests on GitLab
 
-    - __url for the last pull request created:__
+    - __url for the last pull request created:__ [Link](https://invent.kde.org/utilities/kate/-/merge_requests/648)
     
-    - __when was the last pull request made:__
+    - __when was the last pull request made:__ Today (Feb 27 2022 )
 
-    - __url for the oldest pull request created:__
+    - __url for the oldest pull request created:__ [Link](https://invent.kde.org/utilities/kate/-/merge_requests/1)
     
-    - __when was the oldest pull request made:__
+    - __when was the oldest pull request made:__ August 11 2019
 
-- __how many closed pull requests are there:__
+- __how many closed pull requests are there:__ GitLab differentiates between closed and merged. 65 closed, 577 merged.
 
-    - __url for the last pull request closed:__
+    - __url for the last pull request closed:__ [Oldest closed](https://invent.kde.org/utilities/kate/-/merge_requests/8), [oldest merged](https://invent.kde.org/utilities/kate/-/merge_requests/1)
     
-    - __how many users discussed the pull request:__
+    - __how many users discussed the pull request:__ 2, 1
     
-    - __when was the pull request made:__
+    - __when was the pull request made:__ Aug 20 2019, Aug 11 2019
     
-    - __when was the pull request closed:__
+    - __when was the pull request closed:__ Aug 22 2019, Aug 11 2019
     
 
 - __do maintainers respond quickly to pull requests when they are opened?__ 
-
+Generally within 8 hours, yes.
 
 
 
