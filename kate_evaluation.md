@@ -77,7 +77,6 @@ That being said, following the instructions closely should be enough.
 
 __Number of contributors:__ 98.
 
-
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
@@ -172,20 +171,16 @@ Generally within 8 hours, yes.
 
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
-
+Not especially. The guide to contributing is pretty barebones; there are no "newcomer" or "documentation" labels on issues; there is no code of conduct in the repo (it can only be found on the KDE website). There is no CONTRIBUTING.md; instead just a short section in the README.
 
 __Do the maintainers respond helpfully to questions in issues?__
-
+I didn't see any questions in the issues I viewed. The real discussions likely took place in IRC.
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
-
+More or less. They can get a bit snarky sometimes. See the discussion on [this previously linked issue](https://invent.kde.org/utilities/kate/-/issues/53).
 
 __Do pull requests get reviewed?__
-
-
+Yes.
 
 __Do maintainers thank people for their contributions?__
-
-
-
+No; most contributors are the same four people.
