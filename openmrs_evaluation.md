@@ -123,28 +123,28 @@ __Issues__
 
 __Pull requests__
 
-- __how many open pull requests are there:__
+- __how many open pull requests are there:__ There are a 42 pull request within the openmrs-core repository.
 
-    - __url for the last pull request created:__
+    - __url for the last pull request created:__ https://github.com/openmrs/openmrs-core/pull/4007
     
-    - __when was the last pull request made:__
+    - __when was the last pull request made:__ February 24th, 2022
 
-    - __url for the oldest pull request created:__
+    - __url for the oldest pull request created:__ Aug 17, 2012
     
-    - __when was the oldest pull request made:__
+    - __when was the oldest pull request made:__ Aug 17, 2012
 
-- __how many closed pull requests are there:__
+- __how many closed pull requests are there:__ 3,963
 
-    - __url for the last pull request closed:__
+    - __url for the last pull request closed:__ https://github.com/openmrs/openmrs-core/pull/4008
     
-    - __how many users discussed the pull request:__
+    - __how many users discussed the pull request:__ Two users.
     
-    - __when was the pull request made:__
+    - __when was the pull request made:__ February 24th, 2022
     
-    - __when was the pull request closed:__
+    - __when was the pull request closed:__ February 27th, 2022
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Yes maintainers respond fairly quickly.
 
 
 
@@ -154,20 +154,20 @@ __Pull requests__
 
 
 ## Summary assessment
-__How friendly is this project for beginner contributors?__
+__How friendly is this project for beginner contributors?__ This project I would say is not friendly for beginners. Openmrs offers many opportunities to contribute to an open source project, however, the different tasks are not beginner friendly. The reason being is that there is not much instruction on how to contribute to the project. For instance, Openmrs uses the JIRA ticketing system for open contributions, but does not explain how to use JIRA and when users ask questions, maintainers are not very friendly. Perhaps for an experienced contributor or developer, this would be a good project, but not for beginners.
 
 
-__Do the maintainers respond helpfully to questions in issues?__
+__Do the maintainers respond helpfully to questions in issues?__ Sometimes maintainers can be fairly helpful in responding to contributors questions, but there were several occasions where the maintainers had passive aggressive responses that was not helpful in anyway to contributors.
 
 
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
-
-
-__Do pull requests get reviewed?__
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ In general people are friendly, but it seems they do not maintain much patience when it comes to beginners or also in cases where a person is struggling to complete a task in a given time frame.
 
 
 
-__Do maintainers thank people for their contributions?__
+__Do pull requests get reviewed?__ Yes they are reviewed.
+
+
+
+__Do maintainers thank people for their contributions?__ Sometimes contributors are thanked, but not always.
 
 
