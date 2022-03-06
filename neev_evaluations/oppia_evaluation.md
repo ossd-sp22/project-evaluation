@@ -61,7 +61,7 @@
 
 
 ##### Issues 
-###### All numbers and time are at the time of writing this (Tuesday 03/06/2022: 12:57AM EST)
+###### All numbers and time are at the time of writing this (Sunday 03/06/2022: 12:57AM EST)
 **How many open issues are there:** 1,070
 * **url for the last issue created:** [link for last issue](https://github.com/oppia/oppia/issues/15075)
 
