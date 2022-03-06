@@ -1,98 +1,88 @@
-# Finding info about contributing on the website.
+# Project evaluation for Oppia
 
-### In the following section you should only enter the information that you found on the project website. Some of the answers will be impossible to find, others may be very hard to find. Do not google for answers.
+## For the record, Oppia is my first choice to work for the rest of the semester
 
 **Project website:** https://www.oppia.org/
 
-**What is the purpose of the project:**  
+**What is the purpose of the project:** Oppia is an online learning tool that enables anyone to easily create and share interactive activities (called 'explorations'). These activities simulate a one-on-one conversation with a tutor, making it possible for students to learn by doing while getting feedback. It is both for teachers and learners. 
 
-**How easy was it to find information about contributing on the website?** Very easy. At the bottom of the page, the project states that it is one of the top open source projects on Github and links to the repository.  
+**How easy was it to find information about contributing on the website?** Very easy. They have a wiki page linked into the README file detailing how you can contribute. 
 
 **Contributing instructions:**
-[Link for instructions](https://github.com/FortAwesome/Font-Awesome/blob/6.x/CONTRIBUTING.md)
-The contributing document dictates that you can only request a new icon, feature or report a bug. 
-You cannot contribute by creating new icons that users are requesting - which casts doubt on how “open” this project really is. 
+[Link for instructions](https://github.com/oppia/oppia/wiki)
 
-**URL for the code repository:** The link to the github repository is https://github.com/FortAwesome/Font-Awesome
+**URL for the code repository:** [The link to the github repository](https://github.com/oppia/oppia)
 
-**Bug/Issue tracker link:** https://github.com/FortAwesome/Font-Awesome/issues
+**Bug/Issue tracker link:** https://github.com/oppia/oppia/issues
 
-**Mailing list:** No mailing list (there’s a “contact us” email)
+**Mailing list:** https://groups.google.com/g/oppia
 
-**Chat channel:** No chat channel
+**Chat channel:** https://gitter.im/oppia/oppia-chat
 
 **Other communication channels:** 
-* https://twitter.com/fontawesome/
-* hello@fontawesome.com
-* https://blog.fontawesome.com/
-
+*Other Google Groups:
+  * For announcements: https://groups.google.com/g/oppia-announce
+  * For developr updates: https://groups.google.com/g/oppia-dev
+* https://twitter.com/oppiaorg
+* https://www.linkedin.com/company/oppia-org/
 
 
 ### Finding info at the project repository and bug/issue tracker.
 
-**License:** FontAwesome uses 3 separate licenses. 
-* The FontAwesome font is licensed under the SIL OFL 1.1 License. 
-* The FontAwesome documentation is licensed under the CC BY 4.0 License. 
-* The FontAwesome CSS, LESS, and Sass files are licensed under the MIT license. 
+**License:** Oppia uses the [Apache License 2.0](https://github.com/oppia/oppia/blob/develop/LICENSE)
 
-**Is it OSI approved license:** FontAwesome uses 3 separate licenses. The FontAwesome font is licensed under the [SIL OFL 1.1 License](http://scripts.sil.org/OFL). The FontAwesome documentation is licensed under the [CC BY 4.0 License](http://creativecommons.org/licenses/by/3.0/). The FontAwesome CSS, LESS, and Sass files are licensed under the [MIT license](https://opensource.org/licenses/mit-license.html). 
+**Is it OSI approved license:** Yes! 
 
-**Programming Language:** Javascript, CSS, SCSS, Less
+**Programming Language:** Python, TypeScript, HTML, CSS, JavaScript, PEG.js
 
-**URL for contributing instructions:** [url for instructions](https://github.com/FortAwesome/Font-Awesome/blob/6.x/CONTRIBUTING.md)
+**URL for contributing instructions:** [url for instructions](https://github.com/oppia/oppia/wiki)
 
-* The contributing document dictates that you can only request a new icon, feature or report a bug. 
-* You cannot contribute by creating new icons that users are requesting - which casts doubt on how “open” this project really is. 
-
-**Are the contributing instructions clear?** No, the contributing file basically states that users can submit requests for icons and any bugs. The file does not include any information about 
+**Are the contributing instructions clear?** Yes! There have created a completed separate wiki page with very detailed and comprehensive instructions on how you can contribute to the project. It is possible to contribute as a developer, but it also has a lot of other opportunities for non-coding contributions that are incredible - course desginers, documentation, researchers, voice artists. 
 
 **URL for code of conduct / community norms / community guildelines:**
-[Link for code of conduct](https://github.com/FortAwesome/Font-Awesome/blob/6.x/CODE_OF_CONDUCT.md)
+[Link for code of conduct](https://github.com/oppia/oppia/blob/develop/.github/CODE_OF_CONDUCT.md)
 
-**URL for instructions for users to download and install the package:**
+**URL for instructions for users to download and install the package:** [url for the instructions to install and use the project](https://github.com/oppia/oppia/wiki/Installing-Oppia)
 
-* To use the toolkit - [Toolkit](https://fontawesome.com/docs/web/setup/get-started)
-* To experiment with the repo - [Repository](https://github.com/FortAwesome/Font-Awesome/wiki)
+**Are these instructions clear? Do you think they would be easy to follow?:** They are very comprehensive - they have instructions for Linux, Mac OS and Windows separately. They also have a [Troubleshooting page.](https://github.com/oppia/oppia/wiki/Troubleshooting)
 
-**Are these instructions clear? Do you think they would be easy to follow?:** The instructions on how to download and use the package are pretty clear. They have detailed instructions, FAQs and help videos to guide people on how to use this open source project. 
-
-**Number of contributors:** 2
+**Number of contributors:** 510
 
 **Usernames of three contributors with largest number of commits; for each of them list the link to their latest commit:**
-* robmadole
-* tagliala
+* seanlip: [link to latest commit](https://github.com/oppia/oppia/commit/f0f286cce0336afa0c8addd4b3e09af74b9ee3cd)
+* BenHenning: [link to latest commit](https://github.com/oppia/oppia/commit/aafab950e211275d9b2af8fbb3491540c5e419c7)
 
-**Number of commits:** 3 (for the default branch)
+**Number of commits:** 14,022
 
 **Latest commit**
-* [Link to the commit](https://github.com/FortAwesome/Font-Awesome/commit/0078392516a3c27e5549c5643fd8237a9063b34)
-* Who made that commit: tagliala
-* What type of work was commited?: A link was fixed 
+* [Link to the commit](https://github.com/oppia/oppia/commit/7aea401b372b38a66442e447332e4e06ca5880f6)
+* Who made that commit: EricZLou
+* What type of work was commited?: Backend validation for non-duplicate exploration
 
 
 ##### Issues 
-###### All numbers and time are at the time of writing this (Tuesday 02/22/2022: 1:10PM EST)
-**How many open issues are there:** 5741
-* **url for the last issue created:** [click here for last issue](https://github.com/FortAwesome/Font-Awesome/issues/18740)
+###### All numbers and time are at the time of writing this (Tuesday 03/06/2022: 12:57AM EST)
+**How many open issues are there:** 1,070
+* **url for the last issue created:** [link for last issue](https://github.com/oppia/oppia/issues/15075)
 
 * **How many users discuss the issue:** 1
-* **When was the issue reported:** 31 minutes ago
+* **When was the issue reported:** 2 days ago
 
-**How many closed issues are there:** 12240
-* **url for the last issue closed:** [link to issue](https://github.com/FortAwesome/Font-Awesome/issues/18733)
+**How many closed issues are there:** 4,758
+* **url for the last issue closed:** [link to issue](https://github.com/oppia/oppia/issues/15031)
 * **How many users discussed the issue:** 2
-* **When was the issue reported:** 2/21/22 8:24 AM
-* **When was the issue closed:** 2/21/22 8:35 AM
+* **When was the issue reported:** 7 days ago
+* **When was the issue closed:** 7 days ago
 
-**How active is the discussion on the issues:** Not very active. Most of these are just icon requests and that is because there’s very limited ways in which people can contribute to this project. There are no discussions on how to make this project better or take it forward, as there are no guidelines for that in the README or the CONTRIBUTING document. 
+**How active is the discussion on the issues:** Very active. There are assignees for almost all the issues and they are all different people - showing that a lot of people are given an opportunity here!
 
-**Example of a lot of good discussion:** N/A
+**Example of a lot of good discussion:** [link to the issue.](https://github.com/oppia/oppia/issues/15029) There are screenshots and screen recordings where people are being thorough to explain what the issue is. 
 
-**Example of an issue that does not have much discussion:** A lot of issues are icon requests, and are marked as duplicates and closed. The open icon request also usually have no discussion other than people spamming “+1”
+**Example of an issue that does not have much discussion:** [link to issue.](https://github.com/oppia/oppia/issues/15075) The user self-assigned the issue so I guess there wasn't a need for a lot of discussion. 
 
-**Are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:** NO
-* **How many of such issues are there?** N/A
-* **Look at a few of them, do they look beginner friendly?** N/A
+**Are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:** Yes - labelled "good first issue" and "good second issue"
+* **How many of such issues are there?** 35
+* **Look at a few of them, do they look beginner friendly?** Yes!
 
 **Are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):** NO
 * **How many of such issues are there?** N/A
@@ -100,29 +90,29 @@ You cannot contribute by creating new icons that users are requesting - which ca
 
 
 ##### Pull requests
-**How many open pull requests are there:** 29
+**How many open pull requests are there:** 84
 
-**url for the last pull request created:** [Last pull request made](https://github.com/FortAwesome/Font-Awesome/pull/18737)
+**url for the last pull request created:** [Last pull request made](https://github.com/oppia/oppia/pull/15085)
 
-**When was the last pull request made:** 7 hours ago
-**url for the oldest pull request created:** [Oldest pull request](https://github.com/FortAwesome/Font-Awesome/pull/2)
+**When was the last pull request made:** 11 hours ago
 
-**When was the oldest pull request made:** Jan 2, 2013
+**url for the oldest pull request created:** [Oldest open pull request](https://github.com/oppia/oppia/pull/14380)
 
-**How many closed pull requests are there:** 607
+**When was the oldest pull request made:** 7 Dec, 2021
 
-**url for the last pull request closed:** [last pull request closed](https://github.com/FortAwesome/Font-Awesome/pull/18705)
+**How many closed pull requests are there:** 9038
 
-**How many users discussed the pull request:**1
-**When was the pull request made:** 7 days ago
-**When was the pull request closed:** 6 days ago
+**url for the last pull request closed:** [last pull request closed](https://github.com/oppia/oppia/pull/15083)
 
-**Do maintainers respond quickly to pull requests when they are opened?** Yes the contributors do respond quickly to pull requests when they are opened. They typically respond within a day or two. 
+**How many users discussed the pull request:** 1
+**When was the pull request made:** 14 hours ago
+**When was the pull request closed:** 12 hours ago
+
+**Do maintainers respond quickly to pull requests when they are opened?** Yes, they also have a bot answering basic questions.  
 
 
 ### Summary assesment
-**How friendly is this project for beginner contributors?** We would contend that this project is not really an open source project. It is more like a repository of a lot of cool icons and a place where you can keep requesting icons or new features, and never really get a chance to contribute to the project. 
-The developers actually have a lot of code in another (not mentioned) repository and that makes it difficult to actually look at the whole project. There is also a paid version of the project, which provides more icons and features - but that doesn’t make it “open.”
+**How friendly is this project for beginner contributors?** I think this is a very open and friendly community. It is welcoming to EVERYBODY with ANY skills (coding or non-coding). They have separate pages for the most common type of contributors and the kind of work they do - but also have an interest form for people who don't find any relevant stuff on the contributing instructions, so that anybody who wants to contribute can find a way to contribute. 
 
 **Do the maintainers respond helpfully to questions in issues?** The maintainers are responsive and respectful to the requests.
 
