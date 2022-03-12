@@ -151,7 +151,7 @@ __Pull requests__
 __How friendly is this project for beginner contributors?__ This project I would say is not friendly for beginners. They seem to be primarily looking for code contributions, but there are occasionally translation and database updates to be made. There is a document specifically for [Ideas for New Developers](https://github.com/smogon/pokemon-showdown/issues/2444) for pointers on where to begin.
 
 
-__Do the maintainers respond helpfully to questions in issues?__ 
+__Do the maintainers respond helpfully to questions in issues?__ Yes! Everyone seems friendly.
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ Everyone seems friendly from the various issues, pull requests, and the Discord server that I took a glance at!
