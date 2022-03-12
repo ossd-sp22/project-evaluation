@@ -45,7 +45,7 @@ __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
 
 __Programming Language:__ C, C++, Python
 
-__URL for contributing instructions:__ [Contributing instructions](https://wiki.blender.org/wiki/Developer_Intro/Advice)
+__URL for contributing instructions:__ [Contributing instructions](https://www.audacityteam.org/community/developers/)
 
 __Are the contributing instructions clear?__ Yes
 
@@ -135,7 +135,7 @@ __Pull requests__
 
 - __how many closed pull requests are there:__ 1080 pull requests
 
-    - __url for the last pull request closed:__ [Last Pull Request closed](https://developer.blender.org/T76656)
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/audacity/audacity/pull/2665)
     
     - __how many users discussed the pull request:__ 2 users
     
