@@ -17,7 +17,7 @@ __Project website:__
 [tui.chart](https://ui.toast.com/tui-chart)
 
 __What is the purpose of the project:__
-This is a statistical data visualization library.
+This is a data visualization library.
 
 __How easy was it to find information about contributing on the website?__
 Pretty easy, scroll down and you'll see everything about making contributions on their homepage. 
@@ -83,9 +83,9 @@ __Number of contributors:__
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [jung-han](https://github.com/nhn/tui.chart/commit/3b75e28bec01ff900703f0c77a01f1da3eda30de)
-2. [jungeun-cho](https://github.com/nhn/tui.chart/commit/53b84f83248df460c5da78e1658e87dab4fa69fe)
-3. [jwlee1108](https://github.com/nhn/tui.chart/commit/5916639a476d9d3ee543e3f6f8884032c991f718)
+1. jung-han: [link](https://github.com/nhn/tui.chart/commit/3b75e28bec01ff900703f0c77a01f1da3eda30de)
+2. jungeun-cho: [link](https://github.com/nhn/tui.chart/commit/53b84f83248df460c5da78e1658e87dab4fa69fe)
+3. jwlee1108: [link](https://github.com/nhn/tui.chart/commit/5916639a476d9d3ee543e3f6f8884032c991f718)
 
 
 __Number of commits:__
@@ -178,7 +178,7 @@ __Do the maintainers respond helpfully to questions in issues?__
 Yes
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-Most of them are friendly except someone tried to bring politics to the project and the issue was locked.
+Mostly friendly
 
 __Do pull requests get reviewed?__
 Yes
