@@ -13,85 +13,86 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ [Website](https://designsystem.webstandards.ca.gov/)
 
 
 __What is the purpose of the project:__ 
-
+The purpose of the project is "to makes it easy for state digital teams to build accessible, consistent, and performant services and products to meet Californians’ needs." with a design system guideline for organizations to follow.
 
 __How easy was it to find information about contributing on the website?__ 
+Not super easy
 
 
-__Contributing instructions:__ [This](insert link here) 
+__Contributing instructions:__ [On their readme.md](https://github.com/cagov/design-system/blob/main/README.md) 
 
-__URL for the code repository:__ [Code repository](insert link here)
+__URL for the code repository:__ [Code repository](https://github.com/cagov/design-system)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/cagov/design-system/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ There is no mailing list 
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ There is no chat channel, contributors usually chat within the repo
 
-__Other communication channels:__ 
+__Other communication channels:__ None
 
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [MIT License](https://github.com/cagov/design-system/blob/main/LICENSE)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ MIT License
 
-__Programming Language:__ 
+__Programming Language:__ SCSS, Javascript, HTML
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/cagov/design-system#how-we-work)
 
-__Are the contributing instructions clear?__ 
-
-
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
-
-__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](insert link here). 
+__Are the contributing instructions clear?__ Aren't super straightforward.
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__URL for code of conduct / community norms / community guildelines:__ None
+
+__URL for instructions for users to download and install the package:__ [here](https://github.com/cagov/design-system#development-instructions). 
 
 
-__Number of contributors:__ xxx contributors
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes, they seem pretty easy to follow
+
+
+__Number of contributors:__ 14 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-2. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-3. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [m-sullivan7] (207 commits) - [Their Latest Commit](https://github.com/cagov/design-system/commit/ec5494a242bd6a6c16bcb0bb2db83d108239eaf7)
+2. [xjensen] (200 commits) - [Their Latest Commit](https://github.com/cagov/design-system/commit/1bfae0914336fc7ff8d24fc11ccbd3eb6ecf08df)
+3. [aaronhans] (179 commits) - [Their Latest Commit](https://github.com/cagov/design-system/commit/64aff25c12e4fa2c1dce169fe2f9dcc140e0e142)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 1188 commits
 
-__Latest commit__ [de] 
+__Latest commit__ March 11
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/cagov/design-system/commit/e45cd8d810ffc17d7ad15088ec51cd38587ee6e1)
 
-- __who made that commit:__ 
+- __who made that commit:__ chachasikes
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...) merging a pull request of a design token
 
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [137 Open Issues](https://github.com/cagov/design-system/issues)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://github.com/cagov/design-system/issues/740)
 
-    - __how many users discuss the issue:__ zz person
+    - __how many users discuss the issue:__ 1 person
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ March 12 5pm EST 
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here
+- __how many closed issues are there:__ [323 closed issues](https://github.com/cagov/design-system/issues?q=is%3Aissue+is%3Aclosed)
     - __url for the last issue closed:__ [Last issue closed](insert link here)
     - __how many users discussed the issue:__ xx people
     - __when was the issue reported:__ 
