@@ -141,7 +141,11 @@ __Issues__
     - __how many of such issues are there?__
     1
     - __look at a few of them, do you think you could submit a fix?__ 
+<<<<<<< HEAD
+    Probably not. 
+=======
     In the closed issues there is an [update README](https://github.com/googlefonts/fontview/issues/30), which we think that we are able to fix it.
+>>>>>>> 37ab544dad77022b24de8e1592b1fec553667c7f
 
 
 __Pull requests__
@@ -193,6 +197,9 @@ Not since 2019
 
 __Do maintainers thank people for their contributions?__
 Yes! 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 5a6f3ec0be21f38e3ad11d505cc30d135af387f1
 
