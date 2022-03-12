@@ -53,7 +53,7 @@ https://gitlab.gnome.org/GNOME/gnome-clocks/-/issues
 https://foundation.gnome.org/contact-us/
 
 **Chat channel:**
-
+[IRC or Matrix](https://wiki.gnome.org/GettingInTouch/IRC)
 **Other communication channels:**
 telephone
 
@@ -73,23 +73,31 @@ Vala
 
 # **Are the contributing instructions clear?**
 
-**Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:**
+Yes. The contributing instructions seem very beginner friendly. There are interactive videos and references for developers who are unfamiliar with the language. As someone who never worked with these technologies, I feel encouraged to contribute.
 
 **URL for code of conduct / community norms / community guildelines:**
 
+[Code of Conduct](https://wiki.gnome.org/Foundation/CodeOfConduct)
+
 **URL for instructions for users to download and install the package:**
+
 [Install Intructions](https://wiki.gnome.org/Projects/Vala/ValaPlatforms)
+
 
 **Are these instructions clear? Do you think they would be easy to follow?**
 Yes, the instructions are simple and clear. There is even different instructions for different operating systems. The intructions include the necessary packages that need to be installed, as well as a step by step procedure to compile and run the program on a local machine.
 **Number of contributors:**
+275
 
 **Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit**:
 
-1.
-2.
-3.
+1. @pborelli
+  * [latest commit](https://gitlab.gnome.org/GNOME/gnome-clocks/-/commit/d04cc7f38507b7fe8a58628bff75f0a40a32df83)
+2. @bilelmoussaoui
+  * [latest commit](https://gitlab.gnome.org/GNOME/gnome-clocks/-/commit/04250e0abebcdeb93048424cdd7d1e4b2c875726)
+3. @piotrdrag
+  * [latest commit](https://gitlab.gnome.org/GNOME/gnome-clocks/-/commit/2aa4702abd71672dc8a16d19d87b283b6489896a)
 
 **Number of commits:**
 There are total 2,430 commits

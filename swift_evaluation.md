@@ -75,9 +75,9 @@ There are 930 contributors
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-* [DougGregor](https://github.com/apple/swift/commit/e3af6847722b3a1dd60730044cbad648428bd9fc)
-* [slavapestov](https://github.com/apple/swift/pull/41499)
-* [gottesmm](https://github.com/apple/swift/commit/80f598c047adee18344dc2f05498078e217dfd22)
+[DougGregor](https://github.com/apple/swift/commit/e3af6847722b3a1dd60730044cbad648428bd9fc)
+[slavapestov] https://github.com/apple/swift/pull/41499
+[gottesmm](https://github.com/apple/swift/commit/80f598c047adee18344dc2f05498078e217dfd22)
 
 
 __Number of commits:__
@@ -182,31 +182,25 @@ Only 1, the author of the pull request
    4 hours ago
 
 - __do maintainers respond quickly to pull requests when they are opened?__ 
-
-
-
-
+Yes, for example on [this](https://github.com/apple/swift/pull/41500) pull request, a code review was done 4 hours after it was opened.
 
 ---
 
 
 ## Summary assessment
 __How friendly is this project for beginner contributors?__
-
+In our opinion, the project is not that friendly for beginner contributors. This is because the issues are held in a separate database, and have no tags to help beginners gravitate towards easier issues.
 
 __Do the maintainers respond helpfully to questions in issues?__
-
+Yes, the maintainers seem to be very active in the discussions regarding specific issues. They also regularly update the discussion on what still remains an issue and what is completed. 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
+People are professional and straight to the point in the issues, but very friendly in the discussion forum and chat.
 
 
 __Do pull requests get reviewed?__
-
+Yes, [this](https://github.com/apple/swift/pull/41506) is a good example of pull requests getting reviewed. A conversation occurs under the pull request between the author and a project maintainer.
 
 
 __Do maintainers thank people for their contributions?__
-
-
-
-
+Yes! [This](https://bugs.swift.org/browse/SR-15166?filter=-9) issue is a good example of this, where a maintainer thanks a person for their contribution and the issue gets turned into a pull request that shortly gets merged into the codebase.

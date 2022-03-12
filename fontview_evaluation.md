@@ -197,4 +197,9 @@ Not since 2019
 
 __Do maintainers thank people for their contributions?__
 Yes! 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 5a6f3ec0be21f38e3ad11d505cc30d135af387f1
 
