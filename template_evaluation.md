@@ -86,12 +86,12 @@ __Issues__
 
     - __url for the last issue created:__ [Last issue created](insert link here)
 
-    - __how many users discuss the issue:__ zz person
+    - __how many users discuss the issue:__ xx person
     
     - __when was the issue reported:__ 
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here
+- __how many closed issues are there:__ [xxx closed issues](insert link here)
     - __url for the last issue closed:__ [Last issue closed](insert link here)
     - __how many users discussed the issue:__ xx people
     - __when was the issue reported:__ 
@@ -173,4 +173,5 @@ __Do pull requests get reviewed?__
 
 
 __Do maintainers thank people for their contributions?__
+
 
