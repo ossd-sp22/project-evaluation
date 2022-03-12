@@ -138,7 +138,7 @@ __Pull requests__
     - __when was the pull request closed:__ 2022-03-10
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ Yes maintainers respond fairly quickly.
+- __do maintainers respond quickly to pull requests when they are opened?__ Yes, maintainers respond fairly quickly.
 
 
 
@@ -148,7 +148,7 @@ __Pull requests__
 
 
 ## Summary assessment
-__How friendly is this project for beginner contributors?__ This project I would say is not friendly for beginners. They seem to be primarily looking for code contributions, but there are occasionally translation and database updates to be made. There is a document specifically for [Ideas for New Developers](https://github.com/smogon/pokemon-showdown/issues/2444) for pointers on where to begin.
+__How friendly is this project for beginner contributors?__ I would say this project is not beginner-friendly. They seem to be primarily looking for code contributions, but there are occasionally translation and database updates to be made. There is a document specifically for [Ideas for New Developers](https://github.com/smogon/pokemon-showdown/issues/2444) for pointers on where to begin.
 
 
 __Do the maintainers respond helpfully to questions in issues?__ Yes! Everyone seems friendly.
