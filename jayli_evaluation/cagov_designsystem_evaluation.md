@@ -93,59 +93,59 @@ __Issues__
     
 
 - __how many closed issues are there:__ [323 closed issues](https://github.com/cagov/design-system/issues?q=is%3Aissue+is%3Aclosed)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/cagov/design-system/issues/729)
+    - __how many users discussed the issue:__ 0 people
+    - __when was the issue reported:__ March 12 3pm EST 
+    - __when was the issue closed:__ March 12 3pm EST 
 
-- __how active is the discussion on the issues:__ 
+- __how active is the discussion on the issues:__ Pretty active
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/cagov/design-system/issues/675)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/cagov/design-system/issues/639)
 
 
 
 - __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ 0 issues
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ Some are pretty beginner friendly (e.g content design related, improving accessibility)
 
 
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
 
-    - __how many of such issues are there?__ 
+    - __how many of such issues are there?__ 9
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ probably not 
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 3 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/cagov/design-system/pull/727)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ March 13 5pm EST
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/cagov/design-system/pull/11)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ May 25 2021
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 270 pull requests
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/cagov/design-system/pull/731)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 2 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  March 12 
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ March 12
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Yes
 
 
 
@@ -156,23 +156,23 @@ __Pull requests__
 
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
-
+Might be friendly towards people with experience with front end dev and design systems, but could be challenging in terms of communications.
 
 
 
 __Do the maintainers respond helpfully to questions in issues?__
-
+Yes. 
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
+They seem pretty professional since they are an organization.
 
 
 
 __Do pull requests get reviewed?__
-
+yes!
 
 
 __Do maintainers thank people for their contributions?__
-
+yes! 
 
