@@ -1,6 +1,6 @@
 # Project Evaluation Activity
 
-**Project Name:**  Ploomber
+**Project Name:**  Free Code Camp
 
 ---
 
@@ -12,40 +12,39 @@ may be very hard to find. Do not _google_ for answers.
 
 **Project website:**
 
-https://ploomber.io/
+https://www.freecodecamp.org/
 
 **What is the purpose of the project:**
 
-Makes using jupyter notebooks to create data pipelines more realistic / effective for companies using large datasets.
+Help people learn how to code for free by providing lessons and learning curriculum for numerous coding topics.
 
 **How easy was it to find information about contributing on the website?**
 
-They have a CONTRIBUTING.md file and it has clear instructions for reporting issues, making pull requests, etc. They also have instructions for what to do if you get stuck and encourage reaching out on slack.
+They have a CONTRIBUTING.md file and it redirects to a website version of the docs. It looks cool but is a bit much to navigate. There are numerous ways to contribute though that aren't specifically related to coding, such as editing the curriculums and docs.
 
 **Contributing instructions:**
 
-Look at issues and make contributions via Pull Requests (PRs)
+A bit vague on whether you just make Pull Requests or not. Can answer questions on community forum though, give feedback on coding, and/or translate their resources into other languages as other ways to contribute.
 
 **URL for the code repository:**
 
-https://github.com/ploomber/ploomber
+https://github.com/freeCodeCamp/freeCodeCamp
 
 **Bug/Issue tracker link:**
 
-https://github.com/ploomber/ploomber/issues
+https://github.com/freeCodeCamp/freeCodeCamp/issues
 
 **Mailing list:**
 
-https://www.getrevue.co/profile/ploomber
+security@freecodecamp.org
 
 **Chat channel:**
 
-[Slack](https://ploomber-io.slack.com/join/shared_invite/zt-rzu2e9f6-kaWgCfsLY~xeJ9vG9EIuBw)
+[Chat Server](https://chat.freecodecamp.org/home)
 
 **Other communication channels:**
 
-contact@ploomber.io
-[LinkedIn](https://www.linkedin.com/company/ploomber)
+[Online Forum](https://forum.freecodecamp.org/)
 
 ---
 
@@ -53,7 +52,7 @@ contact@ploomber.io
 
 **License:**
 
-Apache License 2.0
+BSD 3-Clause "New" or "Revised" License
 
 **Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:**
 
@@ -61,126 +60,126 @@ Yes
 
 **Programming Language:**
 
-Python
+Javascript and Typescript
 
 **URL for contributing instructions:**
 
-https://github.com/ploomber/ploomber/blob/master/CONTRIBUTING.md
+https://github.com/freeCodeCamp/freeCodeCamp/blob/main/CONTRIBUTING.md
 
 **Are the contributing instructions clear?**
 
-Yes, have links and seems beginner friendly.
+Pretty clear but redirects a lot.
 
 **URL for code of conduct / community norms / community guildelines:**
 
-N/A
+https://www.freecodecamp.org/news/code-of-conduct
 
 **URL for instructions for users to download and install the package:**
 
-https://github.com/ploomber/ploomber/blob/master/README.md
+https://contribute.freecodecamp.org/#/how-to-setup-freecodecamp-locally
 
 **Are these instructions clear? Do you think they would be easy to follow?**
 
-Yes, they include exact code snippets and videos showing what things should look like.
+Yes, pretty clear. They break it down step by step and include exact code snippets. Could have more pictures.
 
 **Number of contributors:**
 
-33 contributors
+4407 contributors
 
 **Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit**:
 
-- edublancas (last commit)[https://github.com/ploomber/ploomber/commit/d0a2f32fb79a807aec8dfacc7a5fe57656000792]
-- idomic (last commit)[https://github.com/ploomber/ploomber/commit/23b828d1644b449abda05e4017aa2d7f8079f89d]
-- fferegrino (last commit)[https://github.com/ploomber/ploomber/commit/ea4d6fdbb56a0ac572a60be2fb2d6efe356ae983]
+- QuincyLarson (last commit)[https://github.com/freeCodeCamp/freeCodeCamp/commit/e21e6c1ce6ba3e8fc3c7a637216cfef9789f4e60]
+- sahat (last commit)[https://github.com/freeCodeCamp/freeCodeCamp/commit/2276abb7111c62e8e2e541c8cf62c9a0753378ad]
+- raisedadead (last commit)[https://github.com/freeCodeCamp/freeCodeCamp/commit/33ecfb6e3bc7fbb858a534d6369eb9e50048dfd6]
 
-**Number of commits:** 2490 commits
+**Number of commits:** 30,049 commits
 
-**Latest commit** 2 days ago
+**Latest commit** 14 hours ago
 
-- **link to the commit:** https://github.com/ploomber/ploomber/commit/d0a2f32fb79a807aec8dfacc7a5fe57656000792
+- **link to the commit:** https://github.com/freeCodeCamp/freeCodeCamp/commit/f058ad2850ccb160448a505973e561d870405ed2
 
-- **who made that commit:** edublancas
+- **who made that commit:** renovate-bot
 
 - **what type of work was commited?** (was it a fix to a bug, implementation of a new feature, ...) 	
 
-Edited CHANGELOG.md which I think is some documentation.
+Edited json file, so I think just updated dependencies.
 
 
 
 **Issues** 
 
-- **how many open issues are there:** 158
+- **how many open issues are there:** 127 open issues
 
-  - **url for the last issue created:** https://github.com/ploomber/ploomber/issues/649
+  - **url for the last issue created:** https://github.com/freeCodeCamp/freeCodeCamp/issues/45419
 
-  - **how many users discuss the issue:** 0
+  - **how many users discuss the issue:** 2 users
 
-  - **when was the issue reported:** 4 hours ago
+  - **when was the issue reported:** 2 days ago
 
-- **how many closed issues are there:** 416 closed issues 
+- **how many closed issues are there:** 15,714 closed issues 
 
-  - **url for the last issue closed:** https://github.com/ploomber/ploomber/issues/644
-  - **how many users discussed the issue:** 1 user
-  - **when was the issue reported:** 7 days ago
-  - **when was the issue closed:** 7 days ago
+  - **url for the last issue closed:** https://github.com/freeCodeCamp/freeCodeCamp/issues/45427
+  - **how many users discussed the issue:** 2 users
+  - **when was the issue reported:** 11 hours ago
+  - **when was the issue closed:** 7 hours ago
 
-- **how active is the discussion on the issues:** Pretty active overall. Looks like majority of closed issues have 3-7 comments on them and some open issues also have some comments on them.
+- **how active is the discussion on the issues:** Very active. Majority of all closed issues and open issue have comments, one had 30+ comments (although there was some heated arguing in that one but it was resolved by a moderator who took the discussion on the chat server instead).
 
-  - **example of a lot of good discussion:** https://github.com/ploomber/ploomber/issues/618
+  - **example of a lot of good discussion:** https://github.com/freeCodeCamp/freeCodeCamp/issues/45352
+  
+  - **example of an issue that does not have much discussion:**  https://github.com/freeCodeCamp/freeCodeCamp/issues/45264
 
-  - **example of an issue that does not have much discussion:**  https://github.com/ploomber/ploomber/issues/613
+- **are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:** Yes, it’s called "first timers only"
 
-- **are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:** Yes, it’s called good first issue
+  - **how many of such issues are there?** 0 open issues tagged "good first issue"
 
-  - **how many of such issues are there?** 34 open issues tagged "good first issue"
-
-  - **look at a few of them, do they look beginner friendly?** There are numerous open issues and some of them have comments further describing the issue. A few of the issues seem pretty understandable but all the issues in general clearly require a deeper understanding of how Ploomber works which makes it a bit difficult to start thinking how you would implement a solution for the issues. Perhaps if I were to look deeper at the currently code and use Ploomber a bit, they would make a lot more sense.
+  - **look at a few of them, do they look beginner friendly?** N/A since there's none.
 
 - **are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):** Yes
 
-  - **how many of such issues are there?** 8
+  - **how many of such issues are there?** 2 open ones
 
-  - **look at a few of them, do you think you could submit a fix?** Some of them seem like they would be simple if I was more knowledgeable on how Ploomber worked.
+  - **look at a few of them, do you think you could submit a fix?** One of them is simply a proposal to remove an example in the docs which is simple but some people are arguing about keeping it. The other one seems highly technical still.
 
 **Pull requests**
 
-- **how many open pull requests are there:** 1
+- **how many open pull requests are there:** 25
 
-  - **url for the last pull request created:** https://github.com/ploomber/ploomber/pull/643
+  - **url for the last pull request created:** https://github.com/freeCodeCamp/freeCodeCamp/pull/45428
 
-  - **when was the last pull request made:** 7 days ago
+  - **when was the last pull request made:** 13 minutes ago
 
-  - **url for the oldest pull request created:** https://github.com/ploomber/ploomber/pull/8
+  - **url for the oldest pull request created:** https://github.com/freeCodeCamp/freeCodeCamp/pull/43605
 
-  - **when was the oldest pull request made:** Feb 14, 2020
+  - **when was the oldest pull request made:** Sept 29th, 2021
 
-- **how many closed pull requests are there:** 74
+- **how many closed pull requests are there:** 28,998
 
-  - **url for the last pull request closed:** https://github.com/ploomber/ploomber/pull/643
+  - **url for the last pull request closed:** https://github.com/freeCodeCamp/freeCodeCamp/pull/45428
 
-  - **how many users discussed the pull request:**  0
+  - **how many users discussed the pull request:** 3 (2 bots though)
 
   - **when was the pull request made:** 7 days ago
 
   - **when was the pull request closed:** 7 days ago
 
 - **do maintainers respond quickly to pull requests when they are opened?**
- The project maintainers seem torespond to pull request on average within 1 ~ 3 days. 
+ The project maintainers seem to respond to pull request on average within 1 ~ 2 days. 
 
 ---
 
 ## Summary assesment
 
 **How friendly is this project for beginner contributors?**
-The project seems to welcome beginner contributors as there are many issues tagged "good first issue" and they also seem to have a welcoming tone in their docs when it comes to beginners, encouraging people to reach out for questions and join slack. The slack channel itself has area to learn more about data science. However, Ploomber itself seems like a bit of a technical product built ontop of juptyer notebook, so while it might make sense what their features do to someone like me who has used jupyter before, it's still hard to understand how it works from a high-level.
+While the project has no open "first time only" issues, the project overall seems friendly for beginners. The whole ethos of free code camp is to help make coding education more accessible to everyone. As such the product is geared more towards educating people via lessons and education. The nature of the product makes this project a lot more digestable since most of the contributions are simply editing curriculum.
 
 
 **Do the maintainers respond helpfully to questions in issues?** 
- Yes. The comments all seem to be friendly and helpful and there are a decent number of issues with comments.
+ Yes. The maintainers reply quickly and also have helped settle arguments in the comments in a civil manner.
 
 **Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?**
-Yes people are friendly in the slack channel, and encourage people to introduce themselves / ask them anything.
+The people mostly seem friendly although there are also some people who have very strong opinons about how coding should be taught so the discussions can get a bit heated sometimes (one person accused another one of twisting their words once). 
 
 **Do pull requests get reviewed?** Yes
 
