@@ -78,7 +78,7 @@ https://github.com/Sendouc/sendou.ink/blob/rewrite/README.md
 
 __Are the contributing instructions clear?__ 
 
-The contributing instructions are on the shorter side and can be found at the botton of the read.me. That said they provide the resources to get started. (link to the discord where the chat + helpdesk is at and issues to contribute on)
+The contributing instructions are on the shorter side and can be found at the botton of the readme. That said they provide the resources to get started. (link to the discord where the chat + helpdesk is at and issues to contribute on)
 
 __URL for code of conduct / community norms / community guildelines:__
 there appears to be no code of conduct :sob:
@@ -188,7 +188,7 @@ __Issues__
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__
 
-    No :()
+    No :(
 
     - __how many of such issues are there?__
 
@@ -255,7 +255,7 @@ __Pull requests__
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
 
-Sendouc consistently contributes to the project, is incredibly quick to reply to questions, and appears encouraging to those who wish to contribute; that being said there aren't often contributors besides him, and as a result it'd be hard to say whether or not the project's current workflow would be well suited to a (relatively) larger amount of contributors. That being said, I feel the ease of communication and the generally welcoming development team would make it easier for a beginner to contribute.
+Sendouc consistently contributes to the project, is incredibly quick to reply to questions, and appears encouraging to those who wish to contribute; that being said there aren't often contributors besides him, and as a result it'd be hard to say whether or not the project's current workflow would be well suited to a *significantly* larger amount of contributors. That being said, I feel the ease of communication and the generally welcoming development team would make it easier for a beginner to contribute.
 
 
 __Do the maintainers respond helpfully to questions in issues?__
