@@ -1,0 +1,209 @@
+# Project Evaluation Activity
+
+
+
+__Project Name:__  OpenFoodFacts
+
+
+---
+
+## Finding info about contributing on the website.
+
+In the following section you should only enter the information that you
+found on the project website. Some of the answers will be impossible to find, others
+may be very hard to find. Do not _google_ for answers.
+
+__Project website:__ 
+[Website](https://world.openfoodfacts.org/)
+
+
+__What is the purpose of the project:__ 
+Open Food Facts is a food products database made by everyone, for everyone. You can use it to make better food choices, and as it is open data, anyone can re-use it for any purpose.
+
+__How easy was it to find information about contributing on the website?__ 
+There is a section on the home page dedicated to contributing. Additionally, there is a separate section on the navbar that leads to a contributing section.
+
+__Contributing instructions:__ 
+[Contributing instructions](https://world.openfoodfacts.org/contribute) 
+
+__URL for the code repository:__ 
+[Code repository](https://github.com/openfoodfacts)
+
+__Bug/Issue tracker link:__ 
+[Bug/Issue tracker for ios](https://github.com/openfoodfacts/openfoodfacts-ios/issues)
+
+__Mailing list:__ I could not find a mailing list avaliable.
+
+__Chat channel:__ 
+[Slack](https://slack.openfoodfacts.org/)
+[Facebook group](https://www.facebook.com/groups/OpenFoodFacts/permalink/902105433179730/)
+
+__Other communication channels:__ None
+
+
+---
+
+## Finding info at the project repository and bug/issue tracker.
+
+__License:__ 
+[License](https://github.com/openfoodfacts/openfoodfacts-ios/blob/develop/LICENSE)
+
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+Yes
+
+__Programming Language:__ 
+Swift
+
+__URL for contributing instructions:__ 
+[Contributing instructions](https://github.com/openfoodfacts/openfoodfacts-ios/blob/develop/CONTRIBUTING.md)
+
+__Are the contributing instructions clear?__ 
+Yes. they are clear. They provide a step by step process on how to commit. 
+
+__URL for code of conduct / community norms / community guildelines:__ 
+[Community Guidelines](https://github.com/openfoodfacts/openfoodfacts-ios/blob/develop/CONTRIBUTING.md#code-of-conduct)
+
+__URL for instructions for users to download and install the package:__ 
+[Instructions](https://github.com/openfoodfacts/openfoodfacts-ios#building)
+
+
+__Are these instructions clear? Do you think they would be easy to follow?__ 
+Yes, they are clear and easy to follow
+
+__Number of contributors:__ 
+37 contributors
+
+__Usernames of three contributors with largest number of commits; for
+each of them list the link to their latest commit__:
+
+1. teolemon (4,860 commits) - [Their Latest Commit](https://github.com/openfoodfacts/openfoodfacts-ios/commit/89954d066bf524e7c512b69d85f03ead2a06ef7d)
+2. tovkal (384 commits) - [Their Latest Commit](https://github.com/openfoodfacts/openfoodfacts-ios/commit/7c39d15bc3273178c96dd89e6c588ee06598f9b1)
+3. aleene (174 commits) - [Their Latest Commit](https://github.com/openfoodfacts/openfoodfacts-ios/commit/cb2d7f675b950c7056254164c354365744827977)
+
+
+__Number of commits:__ 
+5,799 commits
+
+__Latest commit__ 8 days ago
+
+- __link to the commit:__ 
+[Latest commit](https://github.com/openfoodfacts/openfoodfacts-ios/commit/071ff6584b7ccef3df8b57ad7122e44624712e96)
+
+- __who made that commit:__ 
+dependabot[bot]
+
+- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...) 
+update a dependency
+
+
+__Issues__
+
+- __how many open issues are there:__ 
+    132 open issues
+
+    - __url for the last issue created:__ 
+    [Last issue](https://github.com/openfoodfacts/openfoodfacts-ios/issues/959)
+
+    - __how many users discuss the issue:__ 
+    1 person
+    
+    - __when was the issue reported:__ 
+    February 5th
+    
+
+- __how many closed issues are there:__ 
+    339 closed issues
+    - __url for the last issue closed:__ 
+    [closed issue](https://github.com/openfoodfacts/openfoodfacts-ios/issues/942)
+    - __how many users discussed the issue:__ 
+    2 people
+    - __when was the issue reported:__ 
+    October 15th, 2021
+    - __when was the issue closed:__ 
+    October 23rd, 2021
+
+- __how active is the discussion on the issues:__ 
+    There seems to be little discussion on issues. This project seems to have lower popularity than others.
+
+    - __example of a lot of good discussion:__ 
+   https://github.com/openfoodfacts/openfoodfacts-ios/issues/925
+    
+    - __example of an issue that does not have much discussion:__ 
+   https://github.com/openfoodfacts/openfoodfacts-ios/issues/959
+
+
+
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
+    Yes, there is an easy-task label that can help beginners find easy issues that need to be resolved.
+
+    - __how many of such issues are there?__ 
+    3
+    
+    - __look at a few of them, do they look beginner friendly?__ 
+   Yes, they seem to be pretty beginner friendly. It is simple tasks like move an image or replace icons.
+
+
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
+    No
+
+    - __how many of such issues are there?__ 
+    
+    - __look at a few of them, do you think you could submit a fix?__ 
+
+
+
+__Pull requests__
+
+- __how many open pull requests are there:__ 
+    7 
+
+    - __url for the last pull request created:__ 
+    [recent](https://github.com/openfoodfacts/openfoodfacts-ios/pull/966)
+    
+    - __when was the last pull request made:__ 
+    8 days ago
+
+    - __url for the oldest pull request created:__ 
+    [oldest](https://github.com/openfoodfacts/openfoodfacts-ios/pull/1)
+    
+    - __when was the oldest pull request made:__ 
+    December 5th, 2016
+
+- __how many closed pull requests are there:__ 
+    484
+
+    - __url for the last pull request closed:__ 
+    https://github.com/openfoodfacts/openfoodfacts-ios/pull/965
+    
+    - __how many users discussed the pull request:__ 
+    1 user
+    
+    - __when was the pull request made:__  
+    10 days ago
+    
+    - __when was the pull request closed:__ 
+    8 days ago
+    
+
+- __do maintainers respond quickly to pull requests when they are opened?__ 
+Teolemon, a maintainer, seems to be very active and responds quickly to requests an issues. 
+
+
+---
+
+
+## Summary assesment
+__How friendly is this project for beginner contributors?__
+Kind of? The easy-task label is good for beginners to find simple issues they can help contribut to. However, the overal repository does not seem to be too active or inviting. It kind of seems like a ghost town~
+
+__Do the maintainers respond helpfully to questions in issues?__
+Yes, there is a maintainer that is extremely helpful and active.
+
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
+Yes, everyone seems to be friendly and kind.
+
+__Do pull requests get reviewed?__
+Yes, pull requests are reviewed.
+
+__Do maintainers thank people for their contributions?__
+Yes!
