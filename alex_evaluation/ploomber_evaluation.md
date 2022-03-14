@@ -1,6 +1,6 @@
 # Project Evaluation Activity
 
-**Project Name:** 
+**Project Name:**  Ploomber
 
 ---
 
@@ -12,39 +12,40 @@ may be very hard to find. Do not _google_ for answers.
 
 **Project website:**
 
-
+https://ploomber.io/
 
 **What is the purpose of the project:**
 
-Makes using terminal much easier to maneuver and more beautiful with hundreds of plugins.
+Makes using jupyter notebooks to create data pipelines more realistic / effective for companies using large datasets.
 
 **How easy was it to find information about contributing on the website?**
 
-They have a CONTRIBUTING.md file and it has clear instructions for reporting issues, making pull requests, etc.
+They have a CONTRIBUTING.md file and it has clear instructions for reporting issues, making pull requests, etc. They also have instructions for what to do if you get stuck and encourage reaching out on slack.
 
 **Contributing instructions:**
 
-
+Look at issues and make contributions via Pull Requests (PRs)
 
 **URL for the code repository:**
 
-
+https://github.com/ploomber/ploomber
 
 **Bug/Issue tracker link:**
 
-
+https://github.com/ploomber/ploomber/issues
 
 **Mailing list:**
 
-
+https://www.getrevue.co/profile/ploomber
 
 **Chat channel:**
 
-
+[Slack](https://ploomber-io.slack.com/join/shared_invite/zt-rzu2e9f6-kaWgCfsLY~xeJ9vG9EIuBw)
 
 **Other communication channels:**
 
-
+contact@ploomber.io
+[LinkedIn](https://www.linkedin.com/company/ploomber)
 
 ---
 
@@ -52,134 +53,135 @@ They have a CONTRIBUTING.md file and it has clear instructions for reporting iss
 
 **License:**
 
-MIT License 
+Apache License 2.0
 
 **Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:**
 
-
+Yes
 
 **Programming Language:**
 
-
+Python
 
 **URL for contributing instructions:**
 
-
+https://github.com/ploomber/ploomber/blob/master/CONTRIBUTING.md
 
 **Are the contributing instructions clear?**
 
-
+Yes, have links and seems beginner friendly.
 
 **URL for code of conduct / community norms / community guildelines:**
 
-
-
+N/A
 
 **URL for instructions for users to download and install the package:**
 
-
+https://github.com/ploomber/ploomber/blob/master/README.md
 
 **Are these instructions clear? Do you think they would be easy to follow?**
 
-
+Yes, they include exact code snippets and videos showing what things should look like.
 
 **Number of contributors:**
 
-
+33 contributors
 
 **Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit**:
 
+- edublancas (last commit)[https://github.com/ploomber/ploomber/commit/d0a2f32fb79a807aec8dfacc7a5fe57656000792]
+- idomic (last commit)[https://github.com/ploomber/ploomber/commit/23b828d1644b449abda05e4017aa2d7f8079f89d]
+- fferegrino (last commit)[https://github.com/ploomber/ploomber/commit/ea4d6fdbb56a0ac572a60be2fb2d6efe356ae983]
 
+**Number of commits:** 2490 commits
 
-**Number of commits:** 6433 commits
+**Latest commit** 2 days ago
 
-**Latest commit** 8 hours ago
+- **link to the commit:** https://github.com/ploomber/ploomber/commit/d0a2f32fb79a807aec8dfacc7a5fe57656000792
 
-- **link to the commit:** 
-
-- **who made that commit:** 
+- **who made that commit:** edublancas
 
 - **what type of work was commited?** (was it a fix to a bug, implementation of a new feature, ...) 	
 
+Edited CHANGELOG.md which I think is some documentation.
 
 
 
 **Issues** 
 
-- **how many open issues are there:** 178
+- **how many open issues are there:** 158
 
-  - **url for the last issue created:** https://github.com/ohmyzsh/ohmyzsh/issues/10712 
+  - **url for the last issue created:** https://github.com/ploomber/ploomber/issues/649
 
-  - **how many users discuss the issue:**
-  - **when was the issue reported:** 
+  - **how many users discuss the issue:** 0
 
-- **how many closed issues are there:** 3909 closed issues 
+  - **when was the issue reported:** 4 hours ago
 
-  - **url for the last issue closed:** 
-  - **how many users discussed the issue:** 
-  - **when was the issue reported:** 
-  - **when was the issue closed:**
+- **how many closed issues are there:** 416 closed issues 
 
-- **how active is the discussion on the issues:** Very active overall, and most response within a day or two. One of the recent issues has 19 comments.
+  - **url for the last issue closed:** https://github.com/ploomber/ploomber/issues/644
+  - **how many users discussed the issue:** 1 user
+  - **when was the issue reported:** 7 days ago
+  - **when was the issue closed:** 7 days ago
 
-  - **example of a lot of good discussion:** 
+- **how active is the discussion on the issues:** Pretty active overall. Looks like majority of closed issues have 3-7 comments on them and some open issues also have some comments on them.
 
-  - **example of an issue that does not have much discussion:**  
+  - **example of a lot of good discussion:** https://github.com/ploomber/ploomber/issues/618
+
+  - **example of an issue that does not have much discussion:**  https://github.com/ploomber/ploomber/issues/613
 
 - **are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:** Yes, it’s called good first issue
 
-  - **how many of such issues are there?** 
+  - **how many of such issues are there?** 34 open issues tagged "good first issue"
 
-  - **look at a few of them, do they look beginner friendly?** The open issue has been open for 2 months and it hasn’t been resolved yet, and it’s more researched based.
+  - **look at a few of them, do they look beginner friendly?** There are numerous open issues and some of them have comments further describing the issue. A few of the issues seem pretty understandable but all the issues in general clearly require a deeper understanding of how Ploomber works which makes it a bit difficult to start thinking how you would implement a solution for the issues. Perhaps if I were to look deeper at the currently code and use Ploomber a bit, they would make a lot more sense.
 
 - **are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):** Yes
 
-  - **how many of such issues are there?** 
+  - **how many of such issues are there?** 8
 
-  - **look at a few of them, do you think you could submit a fix?** The open issue is relatede to plugin and doesn’t seem easy to fix.
+  - **look at a few of them, do you think you could submit a fix?** Some of them seem like they would be simple if I was more knowledgeable on how Ploomber worked.
 
 **Pull requests**
 
-- **how many open pull requests are there:**
+- **how many open pull requests are there:** 1
 
-  - **url for the last pull request created:** https://github.com/ohmyzsh/ohmyzsh/pull/10713 
+  - **url for the last pull request created:** https://github.com/ploomber/ploomber/pull/643
 
-  - **when was the last pull request made:** 
+  - **when was the last pull request made:** 7 days ago
 
-  - **url for the oldest pull request created:** https://github.com/ohmyzsh/ohmyzsh/pull/2054 
+  - **url for the oldest pull request created:** https://github.com/ploomber/ploomber/pull/8
 
-  - **when was the oldest pull request made:** Aug 20, 2013
+  - **when was the oldest pull request made:** Feb 14, 2020
 
-- **how many closed pull requests are there:** 5,958
+- **how many closed pull requests are there:** 74
 
-  - **url for the last pull request closed:** https://github.com/ohmyzsh/ohmyzsh/pull/10714
+  - **url for the last pull request closed:** https://github.com/ploomber/ploomber/pull/643
 
-  - **how many users discussed the pull request:**  2
+  - **how many users discussed the pull request:**  0
 
-  - **when was the pull request made:** Feb 22, 2022 Approximately 4:00am EST
+  - **when was the pull request made:** 7 days ago
 
-  - **when was the pull request closed:** Feb 22, 2022 Approximately 5:00am EST
+  - **when was the pull request closed:** 7 days ago
 
 - **do maintainers respond quickly to pull requests when they are opened?**
-- the project maintainers respond to pull request in average of 1 ~ 3 days. the number of requests they respond to is estimatably 1 ~ 3, which covers about the half of pull requests made in particular day.  
+ The project maintainers seem torespond to pull request on average within 1 ~ 3 days. 
 
 ---
 
 ## Summary assesment
 
 **How friendly is this project for beginner contributors?**
-Although the project accepts simple contribution such as auto-upgrade work and sending PRs, the project doesn’t seems to be a suit for beginner contributors who don’t have a sufficient knowledge in terminal system.
-https://github.com/ohmyzsh/ohmyzsh/wiki/Contribution-Technical-Practices
+The project seems to welcome beginner contributors as there are many issues tagged "good first issue" and they also seem to have a welcoming tone in their docs when it comes to beginners, encouraging people to reach out for questions and join slack. The slack channel itself has area to learn more about data science. However, Ploomber itself seems like a bit of a technical product built ontop of juptyer notebook, so while it might make sense what their features do to someone like me who has used jupyter before, it's still hard to understand how it works from a high-level.
+
 
 **Do the maintainers respond helpfully to questions in issues?** 
- Yes. 
-ex) https://github.com/ohmyzsh/ohmyzsh/issues/10684
-https://github.com/ohmyzsh/ohmyzsh/issues/10652
+ Yes. The comments all seem to be friendly and helpful and there are a decent number of issues with comments.
 
 **Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?**
-Yes people are friendly in the discord server, and people response quickly
+Yes people are friendly in the slack channel, and encourage people to introduce themselves / ask them anything.
 
 **Do pull requests get reviewed?** Yes
 
-**Do maintainers thank people for their contributions?** The maintainers mostly just approve the pull requests through github, sometimes with a thumbs up emoji.
+**Do maintainers thank people for their contributions?** The maintainers seem to mostly just approve pull requests.
