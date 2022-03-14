@@ -105,19 +105,19 @@ __Issues__
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ Yes! You can find them [here](https://developer.blender.org/maniphest/project/34/query/open/).
-
-    - __how many of such issues are there?__ 35 issues
-    
-    - __look at a few of them, do they look beginner friendly?__ They do look beginner friendly once you familiarize yourself with the project. 
-
-
-
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ No
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ No
 
     - __how many of such issues are there?__ NA
     
-    - __look at a few of them, do you think you could submit a fix?__ NA
+    - __look at a few of them, do they look beginner friendly?__ NA 
+
+
+
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ Yes
+
+    - __how many of such issues are there?__ 9
+    
+    - __look at a few of them, do you think you could submit a fix?__ Yes, some are simply formatting issues
 
 
 
