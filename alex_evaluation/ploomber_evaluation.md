@@ -1,8 +1,6 @@
 # Project Evaluation Activity
 
-**Project Name:** 
-
-Ploomber
+**Project Name:**  Ploomber
 
 ---
 
