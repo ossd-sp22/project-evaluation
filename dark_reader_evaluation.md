@@ -1,34 +1,30 @@
-__Project Name:__  
+__Project Name:__  Dark Reader
 
 
 ---
 
 ## Finding info about contributing on the website.
 
-In the following section you should only enter the information that you
-found on the project website. Some of the answers will be impossible to find, others
-may be very hard to find. Do not _google_ for answers.
-
-__Project website:__
+__Project website:__ https://darkreader.org/
 
 
-__What is the purpose of the project:__
+__What is the purpose of the project:__ Dark Reader analyzes web pages and aims to reduce the eyestrain while browsing the web. 
 
 
-__How easy was it to find information about contributing on the website?__
+__How easy was it to find information about contributing on the website?__ Quite easy.
 
 
-__Contributing instructions:__
+__Contributing instructions:__ [Instructions](https://github.com/darkreader/darkreader/blob/master/CONTRIBUTING.md)
 
-__URL for the code repository:__
+__URL for the code repository:__ https://github.com/darkreader/darkreader
 
-__Bug/Issue tracker link:__
+__Bug/Issue tracker link:__ https://github.com/darkreader/darkreader/issues
 
-__Mailing list:__
+__Mailing list:__ /
 
-__Chat channel:__
+__Chat channel:__ https://github.com/darkreader/darkreader/discussions
 
-__Other communication channels:__
+__Other communication channels:__ https://twitter.com/darkreaderapp
 
 
 ---
