@@ -25,7 +25,7 @@
 
 **Mailing list:** You can subscribe to their mailing list in their blog: [https://blog.pock.app/](https://blog.pock.app/). 
 
-**Chat channel:** Here is the list of chat channels we found: There are no chat channels. Main discussions happen under github.
+**Chat channel:** There are no chat channels. Main discussions happen under github.
 
 **Other communication channels:** There are no other public communication channels, but they do have a blog [https://blog.pock.app/](https://blog.pock.app/).
 
