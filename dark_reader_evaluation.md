@@ -35,7 +35,7 @@ __License:__ MIT License
 
 __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ yes
 
-__Programming Language:__ Javascipt, Typescript, HTML
+__Programming Language:__ Javascript, Typescript, HTML
 
 __URL for contributing instructions:__ https://github.com/darkreader/darkreader/blob/master/CONTRIBUTING.md
 
